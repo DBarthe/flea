@@ -8,7 +8,7 @@ import datetime
 import socket
 
 
-hostTableSpec = [(10, 1, 25)]
+hostTableSpec = [(10, 1, 2)]
 
 startBotCommand="cd ~/flea && ./start-bot.sh"
 
@@ -49,12 +49,10 @@ def propagateAllOnce():
         executeOverSSH(host, startBotCommand)
 
 def main():
-    propagateAllOnce()
-    exit(0)
-    
     while True:
         log("I'm here")
         propagateRandomly()
+        sys.stdout.flush()
         time.sleep(1)
 
 if __name__ == "__main__":
