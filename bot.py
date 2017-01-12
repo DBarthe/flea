@@ -7,6 +7,7 @@ import time
 import datetime
 import socket
 import atexit
+from threading import Thread
 
 hostTableSpec = [(10, 1, 2)]
 
@@ -59,12 +60,29 @@ def propagateAllOnce():
     for host in hostTable:
         executeOverSSH(host, startBotCommand)
 
+quitCommandFile = './commands/quit'
+def hasToQuit():
+    log("check command file")
+    try:
+        f = open(quitCommandFile, 'r')
+        content = f.read()
+        f.close()
+        return int(content)
+    except:
+        return False
+            
 def main():
     atexit.register(killSubProcesses)
+    i = 0
     while True:
-        log("I'm here")
+        if i % 1 == 0:
+            if hasToQuit():
+                log("command quit accepted")
+                exit(0)
+        log("I'm here (%d)" % i)
         propagateRandomly()
         time.sleep(1)
+        i += 1
 
 if __name__ == "__main__":
     main()
