@@ -4,17 +4,23 @@ bot_script="./bot.py"
 hostname=$(hostname)
 pid_file=/tmp/flea.pid
 log_file=./log/$hostname.log
-force_reload=true
+force_reload=false
 force_quit=true
 
+function log()
+{
+    echo "[$(date +%Y-%m-%d:%H:%M:%S)]" $1
+}
 
 if [ -f $pid_file ]; 
 then
     if ps -p $(cat $pid_file) > /dev/null
     then
+	log "instance already running on $hostname"
 	if $force_reload || $force_quit
 	then
 	    kill -9 $(cat $pid_file)
+	    pkill python3
 	    rm $pid_file
 	else
 	    exit 1
@@ -24,9 +30,9 @@ fi
 
 if $force_quit
 then
-    echo "Quit on $hostname"
+    log "Quit on $hostname"
 else
     nohup $bot_script </dev/null >> $log_file &
     echo $! > $pid_file
-    echo "Bot loaded on $hostname"
+    log "Bot loaded on $hostname"
 fi

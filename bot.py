@@ -14,8 +14,12 @@ startBotCommand="cd ~/flea && ./start-bot.sh"
 
 selfHost = socket.gethostname()
 
+def datetimeStr():
+    return datetime.datetime.strftime(datetime.datetime.now(), "%Y-%m-%d %H:%M:%S")
+
 def log(msg):
-    print ("[%s]" % str(datetime.datetime.now()), "%s: " % selfHost, msg)
+    print ("[%s]" % datetimeStr(), "%s: " % selfHost, msg)
+    sys.stdout.flush()
 
 def makeHostTable():
     table = []
@@ -52,7 +56,6 @@ def main():
     while True:
         log("I'm here")
         propagateRandomly()
-        sys.stdout.flush()
         time.sleep(1)
 
 if __name__ == "__main__":
