@@ -6,7 +6,7 @@ import random
 import time
 import datetime
 import socket
-
+import atexit
 
 hostTableSpec = [(10, 1, 2)]
 
@@ -34,11 +34,18 @@ hostTable = makeHostTable()
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
+subProcessList = []
+def killSubProcesses():
+    log ("killing processes...")
+    for p in subProcessList:
+        p.kill()
+    
 def executeOverSSH(host, cmd):
     log("ssh %s %s" % (host, cmd)) 
     ssh = subprocess.Popen(["ssh", "-oStrictHostKeyChecking=no", host, cmd],
-                   stdout=subprocess.PIPE,
-                   stderr=subprocess.PIPE)
+                           stdout=subprocess.PIPE,
+                           stderr=subprocess.PIPE)
+    subProcessList.append(ssh)
     for line in ssh.stdout.readlines():
         print (line.decode("utf-8"))
     for line in ssh.stderr.readlines():
@@ -53,6 +60,7 @@ def propagateAllOnce():
         executeOverSSH(host, startBotCommand)
 
 def main():
+    atexit.register(killSubProcesses)
     while True:
         log("I'm here")
         propagateRandomly()
