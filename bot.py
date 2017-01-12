@@ -5,19 +5,25 @@ import subprocess
 import random
 import time
 import datetime
+import socket
 
-hostTableSpec = [(1, 1, 25),
-                 (2, 1, 15),
-                 (3, 1, 34)]
 
-startBotCommand="cd ~/git/flea && ./start-bot.sh"
+hostTableSpec = [(10, 1, 25)]
+
+startBotCommand="cd ~/flea && ./start-bot.sh"
+
+selfHost = socket.gethostname()
+
+def log(msg):
+    print ("[%s]" % str(datetime.datetime.now()), "%s: " % selfHost, msg)
 
 def makeHostTable():
     table = []
     for (room,start,end) in hostTableSpec:
         table += ["a" + str(room) + "p" + str(machine)
                  for machine in range(start, end + 1)]
-    return table    
+    table = [ host for host in table if host != selfHost ]
+    return table
 
 hostTable = makeHostTable()
 
@@ -25,7 +31,8 @@ def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
 
 def executeOverSSH(host, cmd):
-    ssh = subprocess.Popen(["ssh", host, cmd],
+    log("ssh %s %s" % (host, cmd)) 
+    ssh = subprocess.Popen(["ssh", "-oStrictHostKeyChecking=no", host, cmd],
                    stdout=subprocess.PIPE,
                    stderr=subprocess.PIPE)
     for line in ssh.stdout.readlines():
@@ -36,12 +43,19 @@ def executeOverSSH(host, cmd):
 def propagateRandomly():
     executeOverSSH(random.choice(hostTable), startBotCommand)
 
+
+def propagateAllOnce():
+    for host in hostTable:
+        executeOverSSH(host, startBotCommand)
+
 def main():
+    propagateAllOnce()
+    exit(0)
+    
     while True:
-        print("[%s]" % str(datetime.datetime.now()), "I'm here")
+        log("I'm here")
         propagateRandomly()
         time.sleep(1)
 
-    
 if __name__ == "__main__":
     main()
