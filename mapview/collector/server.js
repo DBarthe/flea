@@ -4,13 +4,17 @@ const Hapi = require('hapi')
 const Joi = require('joi')
 const cassandra = require('cassandra-driver')
 const assert = require('assert')
-
-const CASSANDRA_ENDPOINT = "dbarth.eu"
+const config = require('./config')
 
 const server = new Hapi.Server()
-server.connection({ port: 3000, host: 'localhost' })
+server.connection({ port: config.LISTEN_PORT, host: config.LISTEN_ADDRESS })
 
-const client = new cassandra.Client({contactPoints: [CASSANDRA_ENDPOINT], keyspace: 'mapview'})
+const authProvider = new cassandra.auth.PlainTextAuthProvider(config.CASSANDRA_USER, config.CASSANDRA_PASSWORD);
+const client = new cassandra.Client({
+  authProvider: authProvider,
+  contactPoints: [config.CASSANDRA_ENDPOINT],
+  keyspace: 'mapview',
+})
 client.connect(function (err){
   assert.ifError(err)
 })
