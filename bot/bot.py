@@ -9,7 +9,7 @@ import socket
 import atexit
 from threading import Thread
 
-hostTableSpec = [(10, 10, 10)]
+hostTableSpec = [(10, 1, 27)]
 
 startBotCommand="cd ~/flea/bot && ./start-bot.sh"
 
@@ -87,7 +87,7 @@ def main():
                 log("command quit accepted")
                 exit(0)
 
-        if i % 10:
+        if i % 30 == 0:
             propagateRandomly()
 
         if (i + 2) % 5 == 0:
