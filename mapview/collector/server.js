@@ -3,6 +3,7 @@
 const Hapi = require('hapi')
 const Joi = require('joi')
 const cassandra = require('cassandra-driver')
+const assert = require('assert')
 
 const CASSANDRA_ENDPOINT = "dbarth.eu"
 
@@ -10,6 +11,9 @@ const server = new Hapi.Server()
 server.connection({ port: 3000, host: 'localhost' })
 
 const client = new cassandra.Client({contactPoints: [CASSANDRA_ENDPOINT], keyspace: 'mapview'})
+client.connect(function (err){
+  assert.ifError(err)
+})
 const reportInsert = "INSERT INTO report (user, ts, hostname) VALUES ( ?, dateOf(now()), ?) ;"
 const stationInsert = "INSERT INTO station (hostname, user) VALUES (?, ?)"
 
