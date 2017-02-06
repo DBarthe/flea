@@ -5,14 +5,17 @@ hostname=$(hostname)
 pid_file=/tmp/flea.pid
 log_file=./log/$hostname.log
 force_reload=false
-force_quit=true
+force_quit=false
+
+mkdir -p log/
+mkdir -p commands/
 
 function log()
 {
     echo "[$(date +%Y-%m-%d:%H:%M:%S)]" $1
 }
 
-if [ -f $pid_file ]; 
+if [ -f $pid_file ];
 then
     if ps -p $(cat $pid_file) > /dev/null
     then

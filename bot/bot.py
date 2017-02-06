@@ -9,7 +9,7 @@ import socket
 import atexit
 from threading import Thread
 
-hostTableSpec = [(10, 1, 2)]
+hostTableSpec = [(10, 1, 27)]
 
 startBotCommand="cd ~/flea/bot && ./start-bot.sh"
 
@@ -19,7 +19,7 @@ def datetimeStr():
     return datetime.datetime.strftime(datetime.datetime.now(), "%Y-%m-%d %H:%M:%S")
 
 def log(msg):
-    print ("[%s]" % datetimeStr(), "%s: " % selfHost, msg)
+    print ("[%s]" % datetimeStr(), "%s: " % selfHost, msg.strip())
     sys.stdout.flush()
 
 def makeHostTable():
@@ -53,8 +53,8 @@ def executeOverSSH(host, cmd):
         print ("error:", line.decode("utf-8"))
 
 def propagateRandomly():
-    executeOverSSH(random.choice(hostTable), startBotCommand)
-
+    if len(hostTable) > 0:
+        executeOverSSH(random.choice(hostTable), startBotCommand)
 
 def propagateAllOnce():
     for host in hostTable:
@@ -71,16 +71,28 @@ def hasToQuit():
     except:
         return False
 
+
+def sendReport():
+    log("sending report...")
+    res = subprocess.run(["./mapview-report.sh"], stdout=subprocess.PIPE)
+    log("report sent : [%d] %s" % (res.returncode, res.stdout.decode("utf-8")))
+
 def main():
     atexit.register(killSubProcesses)
     i = 0
     while True:
+        log("I'm here (%d)" % i)
         if i % 1 == 0:
             if hasToQuit():
                 log("command quit accepted")
                 exit(0)
-        log("I'm here (%d)" % i)
-        propagateRandomly()
+
+        if i % 30 == 0:
+            propagateRandomly()
+
+        if (i + 2) % 5 == 0:
+            sendReport()
+
         time.sleep(1)
         i += 1
 
