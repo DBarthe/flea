@@ -11,7 +11,7 @@ from threading import Thread
 
 hostTableSpec = [(10, 1, 2)]
 
-startBotCommand="cd ~/flea && ./start-bot.sh"
+startBotCommand="cd ~/flea/bot && ./start-bot.sh"
 
 selfHost = socket.gethostname()
 
@@ -40,9 +40,9 @@ def killSubProcesses():
     log ("killing processes...")
     for p in subProcessList:
         p.kill()
-    
+
 def executeOverSSH(host, cmd):
-    log("ssh %s %s" % (host, cmd)) 
+    log("ssh %s %s" % (host, cmd))
     ssh = subprocess.Popen(["ssh", "-oStrictHostKeyChecking=no", host, cmd],
                            stdout=subprocess.PIPE,
                            stderr=subprocess.PIPE)
@@ -51,7 +51,7 @@ def executeOverSSH(host, cmd):
         print (line.decode("utf-8"))
     for line in ssh.stderr.readlines():
         print ("error:", line.decode("utf-8"))
-    
+
 def propagateRandomly():
     executeOverSSH(random.choice(hostTable), startBotCommand)
 
@@ -70,7 +70,7 @@ def hasToQuit():
         return int(content)
     except:
         return False
-            
+
 def main():
     atexit.register(killSubProcesses)
     i = 0
