@@ -4,6 +4,9 @@ command_dir='./commands'
 command_quit_file=$command_dir/quit
 log_dir='./log'
 
+mkdir -p log/
+mkdir -p commands/
+
 start() {
   echo "0" > $command_quit_file
   ./start-bot.sh
