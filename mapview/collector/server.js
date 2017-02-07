@@ -20,13 +20,16 @@ client.connect(function (err){
 })
 const reportInsert = "INSERT INTO report (user, ts, hostname) VALUES ( ?, dateOf(now()), ?) ;"
 const stationInsert = "INSERT INTO station (hostname, user) VALUES (?, ?)"
+const studentInsert =" INSERT INTO student (login, hostname, hostname_ts) VALUES (?, ?, dateOf(now()))"
 
 function collect(user, hostname, callback){
   const reportParams = [ user, hostname ]
   const stationParams = [ hostname, user ]
+  const studentarams = [user, hostname ]
   return Promise.all([
     client.execute(reportInsert, reportParams, { prepared: true }),
-    client.execute(stationInsert, stationParams, { prepared: true })
+    client.execute(stationInsert, stationParams, { prepared: true }),
+    client.execute(studentInsert, studentParams, { prepared: true })
   ])
 }
 

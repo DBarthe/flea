@@ -5,6 +5,7 @@ Use mapview;
 CREATE TABLE IF NOT EXISTS station (
   hostname text PRIMARY KEY,
   user text,
+  ts timestamp,
 );
 
 CREATE TABLE IF NOT EXISTS report (
