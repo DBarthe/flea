@@ -64,6 +64,8 @@ class Student:
     def __init__(self, firstname, lastname, email, fc, class_):
         self.firstname = firstname
         self.lastname = lastname
+        if email == None:
+            email = ("%s.%s@etudiant.univ-lille1.fr" % (lastname, firstname)).lower()
         self.email = email
         self.fc = fc
         if class_ == "Master":
