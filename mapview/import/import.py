@@ -66,6 +66,8 @@ class Student:
         self.lastname = lastname
         self.email = email
         self.fc = fc
+        if class_ == "Master":
+            class_ = "Master 1"
         self.class_ = class_
 
     @property
