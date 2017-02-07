@@ -43,10 +43,13 @@ server.route({
         error: false,
         message: "thanks"
       }))
-      .catch(err => reply({
-        error: true,
-        message: "sorry"
-      }))
+      .catch(err => {
+        reply({
+          error: true,
+          message: "sorry"
+        })
+        console.err(err)
+      })
   },
   config: {
     validate: {
