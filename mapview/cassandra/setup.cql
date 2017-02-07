@@ -23,4 +23,4 @@ CREATE TABLE IF NOT EXISTS student (
   fc boolean,
   hostname text,
   hostname_ts,
-)
+);
