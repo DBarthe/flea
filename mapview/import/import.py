@@ -75,7 +75,10 @@ class Student:
         try:
             return self.email.strip().split('@')[0].split('.')[1]
         except Exception as e:
-            return None
+            try:
+                return self.email.strip().split('@')[0]
+            except Exception as e:
+                return None
 
     def __str__(self):
         return ("%s %s %s %d %s" % (
