@@ -48,7 +48,7 @@ server.route({
           error: true,
           message: "sorry"
         })
-        console.err(err)
+        console.error(err)
       })
   },
   config: {
