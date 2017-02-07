@@ -19,7 +19,7 @@ client.connect(function (err){
   assert.ifError(err)
 })
 const reportInsert = "INSERT INTO report (user, ts, hostname) VALUES ( ?, dateOf(now()), ?) ;"
-const stationInsert = "INSERT INTO station (hostname, user) VALUES (?, ?)"
+const stationInsert = "INSERT INTO station (hostname, user, ts) VALUES (?, ?, dateOf(now()))"
 const studentInsert = "UPDATE student SET hostname=?, hostname_ts=dateOf(now()) WHERE login=?;"
 
 function collect(user, hostname, callback){
