@@ -13,3 +13,14 @@ CREATE TABLE IF NOT EXISTS report (
   ts timestamp,
   PRIMARY KEY (user, ts, hostname)
 ) WITH CLUSTERING ORDER BY (ts DESC);
+
+CREATE TABLE IF NOT EXISTS student (
+  login text PRIMARY KEY,
+  firstname text,
+  lastname text,
+  email text,
+  class text,
+  fc boolean,
+  hostname text,
+  hostname_ts,
+)
