@@ -1,0 +1,5589 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <firstname>Ramatou</firstname>
+    <lastname>Abdou Dangaladima</lastname>
+    <email>r.abdou-dangaladim@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mohamad</firstname>
+    <lastname>Abdullah</lastname>
+    <email>mohamad.abdullah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Redwane</firstname>
+    <lastname>Adimi</lastname>
+    <email>redwane.adimi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ilias</firstname>
+    <lastname>Afrass</lastname>
+    <email>ilias.afrass@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Meryem</firstname>
+    <lastname>Agayer</lastname>
+    <email>meryem.agayer@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Raphael</firstname>
+    <lastname>Akladios</lastname>
+    <email>raphael.akladios@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Fahem</firstname>
+    <lastname>Aouzellag</lastname>
+    <email>fahem.aouzellag@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Dealan</firstname>
+    <lastname>Artisien Chevreau</lastname>
+    <email>d.artisienchevreau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ali</firstname>
+    <lastname>Aslan</lastname>
+    <email>ali.aslan@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Bilal</firstname>
+    <lastname>Atmane</lastname>
+    <email>bilal.atmane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ahmad</firstname>
+    <lastname>Ayoub</lastname>
+    <email>ahmad.ayoub@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Baes</lastname>
+    <email>yann.baes@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thierno-Amadou</firstname>
+    <lastname>Bah</lastname>
+    <email>thierno-amadou.bah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Sabrina</firstname>
+    <lastname>Banh Chong</lastname>
+    <email>sabrina.banh-chong@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Barbillon</lastname>
+    <email>alexandre.barbillon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Lucas</firstname>
+    <lastname>Bauduin</lastname>
+    <email>lucas.bauduin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Allyson</firstname>
+    <lastname>Bazir</lastname>
+    <email>allyson.bazir@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ellie</firstname>
+    <lastname>Beauprez</lastname>
+    <email>ellie.beauprez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Sarah</firstname>
+    <lastname>Ben Abdesslem</lastname>
+    <email>sarah.ben-abdesslem@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Sofiane</firstname>
+    <lastname>Benazzouz</lastname>
+    <email>sofiane.benazzouz@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Zinedine</firstname>
+    <lastname>Benkhider</lastname>
+    <email>zinedine.benkhider@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Imrane</firstname>
+    <lastname>Bensadok</lastname>
+    <email>imrane.bensadok@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Amina</firstname>
+    <lastname>Benzina</lastname>
+    <email>amina.benzina@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gabin</firstname>
+    <lastname>Bernier</lastname>
+    <email>gabin.bernier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jean-Charles</firstname>
+    <lastname>Boe</lastname>
+    <email>jean-charles.boe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Farah</firstname>
+    <lastname>Bouchahdane</lastname>
+    <email>farah.bouchahdane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Boulkhir</lastname>
+    <email>mohamed.boulkhir@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Youcef</firstname>
+    <lastname>Brahimi</lastname>
+    <email>youcef.brahimi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Briand</lastname>
+    <email>quentin1.briand@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Felix</firstname>
+    <lastname>Burie</lastname>
+    <email>felix.burie@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jean-Baptiste</firstname>
+    <lastname>Cablat</lastname>
+    <email>jean-baptiste.cablat@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Melvin</firstname>
+    <lastname>Cado</lastname>
+    <email>melvin.cado@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Zoe</firstname>
+    <lastname>Canoen</lastname>
+    <email>zoe.canoen@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Floriane</firstname>
+    <lastname>Carton</lastname>
+    <email>floriane.carton@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Axelle</firstname>
+    <lastname>Cess</lastname>
+    <email>axelle.cess@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Faustine</firstname>
+    <lastname>Charrette</lastname>
+    <email>faustine.charrette@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jiayin</firstname>
+    <lastname>Chen</lastname>
+    <email>jiayin.chen@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Etienne</firstname>
+    <lastname>Chong</lastname>
+    <email>etienne.chong@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Codevelle</lastname>
+    <email>quentin.codevelle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Martin</firstname>
+    <lastname>Corbau</lastname>
+    <email>martin.corbau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Corbel</lastname>
+    <email>pierre.corbel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Cornard</lastname>
+    <email>alexis.cornard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Courteville</lastname>
+    <email>julien.courteville@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Christopher</firstname>
+    <lastname>Cretier</lastname>
+    <email>christopher.cretier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Critelli</lastname>
+    <email>antoine.critelli@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Florent</firstname>
+    <lastname>Curame</lastname>
+    <email>florent.curame@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Elsa</firstname>
+    <lastname>Da silva</lastname>
+    <email>elsa.dasilva@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>De sutter</lastname>
+    <email>florian.desutter@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Debaudringhien</lastname>
+    <email>q.debaudringhien@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gautier</firstname>
+    <lastname>Debrabander</lastname>
+    <email>gautier.debrabander@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Timothee</firstname>
+    <lastname>Decoster</lastname>
+    <email>timothee.decoster@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Defente</lastname>
+    <email>romain.defente@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Marine</firstname>
+    <lastname>Deffontaine</lastname>
+    <email>marine.deffontaine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Fabien</firstname>
+    <lastname>Delbecque</lastname>
+    <email>fabien.delbecque@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Dwayn</firstname>
+    <lastname>Delescluse</lastname>
+    <email>dwayn.delescluse@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Dellys</lastname>
+    <email>remy.dellys@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Cyril</firstname>
+    <lastname>Delot</lastname>
+    <email>cyril.delot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Delot</lastname>
+    <email>nicolas.delot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Bastien</firstname>
+    <lastname>Demaude</lastname>
+    <email>bastien.demaude@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Maryvonne</firstname>
+    <lastname>Denis</lastname>
+    <email>maryvonne.denis@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Deroissart</lastname>
+    <email>maxime.deroissart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Descamp</lastname>
+    <email>benjamin1.descamps@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Abdoulaye</firstname>
+    <lastname>Diallo</lastname>
+    <email>abdoulaye2.diallo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Amadou-Oury</firstname>
+    <lastname>Diallo</lastname>
+    <email>amadou-oury.diallo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mamadou-Mouctar</firstname>
+    <lastname>Diallo</lastname>
+    <email>mm4.diallo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mamadou-Saliou</firstname>
+    <lastname>Diallo</lastname>
+    <email>mamadou-saliou.dialo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Diep</lastname>
+    <email>alexandre.diep@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Hari</firstname>
+    <lastname>Digbo</lastname>
+    <email>hari.digbo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Dorne</lastname>
+    <email>julien.dorne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gautier</firstname>
+    <lastname>Drincqbier</lastname>
+    <email>gautier.drincqbier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mengzhao</firstname>
+    <lastname>Duan</lastname>
+    <email>mengzhao.duan@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Dufour</lastname>
+    <email>simon.dufour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>William</firstname>
+    <lastname>Evrard</lastname>
+    <email>william.evrard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Taha</firstname>
+    <lastname>Fadoul</lastname>
+    <email>taha.fadoul@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Fauquembergue</lastname>
+    <email>v.fauquembergue@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Nordine</firstname>
+    <lastname>Feddal</lastname>
+    <email>nordine.feddal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ambroise</firstname>
+    <lastname>Fleury</lastname>
+    <email>ambroise.fleury@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Louisa</firstname>
+    <lastname>Fodil</lastname>
+    <email>louisa.fodil@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Etienne</firstname>
+    <lastname>Francois</lastname>
+    <email>etienne.francois@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Aghiles</firstname>
+    <lastname>Gacem</lastname>
+    <email>aghiles.gacem@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Marie</firstname>
+    <lastname>Gallardo</lastname>
+    <email>marie.gallardo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Hugo</firstname>
+    <lastname>Gil</lastname>
+    <email>hugo.gil@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Samy</firstname>
+    <lastname>Gritli</lastname>
+    <email>samy.gritli@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Guers</lastname>
+    <email>arthur.guers@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Damien</firstname>
+    <lastname>Halbert</lastname>
+    <email>damien.halbert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Aboubaker</firstname>
+    <lastname>Hammadache</lastname>
+    <email>aboubaker.hammadache@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Henry</lastname>
+    <email>arthur.henry@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Louis</firstname>
+    <lastname>Her</lastname>
+    <email>louis.her@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Hulsken</lastname>
+    <email>alexandre.hulsken@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Franco-Davy</firstname>
+    <lastname>Irakoze</lastname>
+    <email>franco.irakoze@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thibault</firstname>
+    <lastname>Jacek</lastname>
+    <email>thibault.jacek@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gael</firstname>
+    <lastname>Jankowski</lastname>
+    <email>gael.jankowski@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Kabongo Mukole</lastname>
+    <email>j.kabongo-mukole@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ahmed</firstname>
+    <lastname>Kadri</lastname>
+    <email>ahmed.kadri@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Adeniss</firstname>
+    <lastname>Karti</lastname>
+    <email>adeniss.karti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Daouda</firstname>
+    <lastname>Katchala Mele</lastname>
+    <email>daouda.katchala@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Anass</firstname>
+    <lastname>Khaldoune</lastname>
+    <email>anass.khaldoune@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ahlam</firstname>
+    <lastname>Khammar</lastname>
+    <email>ahlam.khammar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Danny</firstname>
+    <lastname>Kieken</lastname>
+    <email>danny.kieken@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jayjaywantee</firstname>
+    <lastname>Koodun</lastname>
+    <email>jayjaywantee.koodun@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Berfy</firstname>
+    <lastname>Kunsangabo Ndongala</lastname>
+    <email>berfy.kunsangabo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jean</firstname>
+    <lastname>Lahaye</lastname>
+    <email>jean.lahaye@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Audran</firstname>
+    <lastname>Landuyt</lastname>
+    <email>audran.landuyt@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Elise</firstname>
+    <lastname>Lapauw</lastname>
+    <email>elise.lapauw@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Le Pallac</lastname>
+    <email>simon.le-pallac@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Lecointe</lastname>
+    <email>florian1.lecointe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Didrick</firstname>
+    <lastname>Lecornet</lastname>
+    <email>didrick.lecornet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Rodolphe</firstname>
+    <lastname>Lefevere</lastname>
+    <email>rodolphe.lefevere@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Eliott</firstname>
+    <lastname>Legrand</lastname>
+    <email>eliott.legrand@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Malik</firstname>
+    <lastname>Lela</lastname>
+    <email>malik.lela@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mathieu</firstname>
+    <lastname>Lemerre</lastname>
+    <email>mathieu.lemerre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Josepha</firstname>
+    <lastname>Lepyra Awenamun</lastname>
+    <email>j.lepyraawenamun@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Dixuan</firstname>
+    <lastname>Lin</lastname>
+    <email>dixuan.lin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Lombart</lastname>
+    <email>thomas.lombart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Sarra</firstname>
+    <lastname>Lounas</lastname>
+    <email>sarra.lounas@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Mabounda</lastname>
+    <email>pierre.mabounda@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Macrelle</lastname>
+    <email>simon.macrelle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mohand-Said</firstname>
+    <lastname>Mahdi</lastname>
+    <email>mohandsaid.mahdi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Marillesse</lastname>
+    <email>alexandre.marillesse@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Marliere</lastname>
+    <email>benjamin.marliere@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Marrer</lastname>
+    <email>vm.marrer@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thibaut</firstname>
+    <lastname>Martinet</lastname>
+    <email>thibaut.martinet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Masquelier</lastname>
+    <email>antoine.masquelier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Pierrick</firstname>
+    <lastname>Meignant</lastname>
+    <email>pierrick.meignant@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Sonia</firstname>
+    <lastname>Menni</lastname>
+    <email>sonia.menni@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Meresse</lastname>
+    <email>antoine1.meresse@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Elias</firstname>
+    <lastname>Mezine</lastname>
+    <email>elias.mezine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Youva</firstname>
+    <lastname>Mokeddes</lastname>
+    <email>youva.mokeddes@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Mollet</lastname>
+    <email>valentin.mollet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Donelia</firstname>
+    <lastname>Monin</lastname>
+    <email>donelia.monin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Marie</firstname>
+    <lastname>Mons</lastname>
+    <email>marie.mons@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Arnold</firstname>
+    <lastname>Mubuanga Yate</lastname>
+    <email>arnold.mubuangayate@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Anais-Marie-Simone</firstname>
+    <lastname>Munezero</lastname>
+    <email>ams.munezero@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Joha</firstname>
+    <lastname>Munezero</lastname>
+    <email>joha.munezero@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Yves-Marcel</firstname>
+    <lastname>Ngabirano</lastname>
+    <email>ym.ngabirano@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mahdi</firstname>
+    <lastname>Nouari</lastname>
+    <email>mahdi.nouari@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Nowakowski</lastname>
+    <email>arthur.nowakowski@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Odul</lastname>
+    <email>corentin.odul@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Samir</firstname>
+    <lastname>Otmane</lastname>
+    <email>samir.otmane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Camelea</firstname>
+    <lastname>Ouarkoub</lastname>
+    <email>camelea.ouarkoub@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Fateh</firstname>
+    <lastname>Oumitouche</lastname>
+    <email>fateh1.oumitouche@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Patte</lastname>
+    <email>pierre.patte@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Francois-Xavier</firstname>
+    <lastname>Pelage</lastname>
+    <email>fx.pelage@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Adrien</firstname>
+    <lastname>Pereira</lastname>
+    <email>adrien.pereira@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Perrot</lastname>
+    <email>antoine1.perrot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Petit</lastname>
+    <email>thomas2.petit@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Celine</firstname>
+    <lastname>Petitpre</lastname>
+    <email>celine.petitpre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gregoire</firstname>
+    <lastname>Philippot</lastname>
+    <email>gregoire.philippot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Picavet</lastname>
+    <email>simon.picavet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Pourry</lastname>
+    <email>florian.pourry@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Cyril</firstname>
+    <lastname>Povia</lastname>
+    <email>cyril.povia@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Oceane</firstname>
+    <lastname>Pruvost</lastname>
+    <email>oceane.pruvost@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Loic</firstname>
+    <lastname>Puchaux</lastname>
+    <email>loic.puchaux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Tatiana</firstname>
+    <lastname>Pululu Mpesi</lastname>
+    <email>tatiana.pululu-mpesi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Andrianarivony</firstname>
+    <lastname>Rakotoson</lastname>
+    <email>a.rakotoson@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Lukas</firstname>
+    <lastname>Ramus</lastname>
+    <email>lukas.ramus@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Georges</firstname>
+    <lastname>Razdobreev</lastname>
+    <email>georges.razdobreev@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Meriam</firstname>
+    <lastname>Rekik</lastname>
+    <email>meriam.rekik@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Cyril</firstname>
+    <lastname>Rocher</lastname>
+    <email>cyril.rocher@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ana</firstname>
+    <lastname>Rodriguez Pascual</lastname>
+    <email>a.rodriguezpascual@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Arnaud</firstname>
+    <lastname>Rougetet</lastname>
+    <email>arnaud.rougetet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Ambroise</firstname>
+    <lastname>Roussel</lastname>
+    <email>ambroise.roussel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gatien</firstname>
+    <lastname>Ryckebusch</lastname>
+    <email>gatien.ryckebusch@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Fatma</firstname>
+    <lastname>Saal</lastname>
+    <email>fatma.saal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thileli</firstname>
+    <lastname>Saci</lastname>
+    <email>thileli.saci@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Nina</firstname>
+    <lastname>Santi</lastname>
+    <email>nina.santi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Daniel</firstname>
+    <lastname>Sasu</lastname>
+    <email>daniel.sasu@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Scheirlinck</lastname>
+    <email>clement.scheirlinck@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Iliass</firstname>
+    <lastname>Sefyani Lakrizi</lastname>
+    <email>i.sefyani-lakrizi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Katia</firstname>
+    <lastname>Selmani</lastname>
+    <email>katia.selmani@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Serrurier</lastname>
+    <email>julien.serrurier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Iuliia</firstname>
+    <lastname>Shcherbakova</lastname>
+    <email>iuliia.shcherbakova@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Eldin</firstname>
+    <lastname>Smakic</lastname>
+    <email>eldin.smakic@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Leo</firstname>
+    <lastname>Smeulders</lastname>
+    <email>leo.smeulders@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Samuel</firstname>
+    <lastname>Soltysiak</lastname>
+    <email>samuel.soltysiak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Alice</firstname>
+    <lastname>Sparrow</lastname>
+    <email>alice.sparrow@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Steppe</lastname>
+    <email>romain.steppe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Yuxuan</firstname>
+    <lastname>Sun</lastname>
+    <email>yuxuan.sun@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Suret</lastname>
+    <email>guillaume.suret@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Gauthier</firstname>
+    <lastname>Tassin</lastname>
+    <email>gauthier.tassin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Aghiles</firstname>
+    <lastname>Terbah</lastname>
+    <email>aghiles.terbah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Leane</firstname>
+    <lastname>Texier</lastname>
+    <email>leane.texier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Marine</firstname>
+    <lastname>Touron</lastname>
+    <email>marine.touron@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Thi-Ngoc-Anh</firstname>
+    <lastname>Tran</lastname>
+    <email>thingocanh.tran@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Assia</firstname>
+    <lastname>Trari</lastname>
+    <email>assia.trari@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Tsapliayeu</lastname>
+    <email>pierre.tsapliayev@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Tuncay</firstname>
+    <lastname>Turkoglu</lastname>
+    <email>tuncay.turkoglu@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Nathan</firstname>
+    <lastname>Valtille</lastname>
+    <email>nathan.valtille@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Lea</firstname>
+    <lastname>Vandamme</lastname>
+    <email>lea.vandamme@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Timothey</firstname>
+    <lastname>Vanmarcke</lastname>
+    <email>timothey.vanmarcke@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Martin</firstname>
+    <lastname>Vasilev</lastname>
+    <email>martin.vasilev@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Clara</firstname>
+    <lastname>Verquerre</lastname>
+    <email>clara.verquerre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Vienne</lastname>
+    <email>jeremy1.vienne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Amandine</firstname>
+    <lastname>Watrelos</lastname>
+    <email>amandine.watrelos@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Yahiatene</lastname>
+    <email>mohamed.yahiatene@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Adrien</firstname>
+    <lastname>Zagabe</lastname>
+    <email>adrien.zagabe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>alexandre</firstname>
+    <lastname>boonaert</lastname>
+    <email>alexandre.boonaert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>yannis</firstname>
+    <lastname>bouacem</lastname>
+    <email>yannis.bouacem@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>mehdi</firstname>
+    <lastname>boutab</lastname>
+    <email>mehdi.boutab@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>jerome</firstname>
+    <lastname>delecluse</lastname>
+    <email>jerome.delecluse@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>simon</firstname>
+    <lastname>francaix</lastname>
+    <email>simon.francaix@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>jonathan</firstname>
+    <lastname>solowieff</lastname>
+    <email>jonathan.solowieff@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S3 - S4</class>
+  </student>
+  <student>
+    <firstname>Redouane</firstname>
+    <lastname>Aarab</lastname>
+    <email>redouane.aarab@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Nael</firstname>
+    <lastname>Abou Chahine</lastname>
+    <email>nael.abou-chahine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Abbas</firstname>
+    <lastname>Attaf</lastname>
+    <email>abbas.attaf@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Antony</firstname>
+    <lastname>Avola</lastname>
+    <email>antony.avola@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Salem</firstname>
+    <lastname>Bara</lastname>
+    <email>salem.bara@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Anas</firstname>
+    <lastname>Ben El Mahjoub</lastname>
+    <email>anas.benelmahjoub@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Zohair</firstname>
+    <lastname>Benabbas</lastname>
+    <email>zohair.benabbas@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Souha</firstname>
+    <lastname>Benzakour</lastname>
+    <email>souha.benzakour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Gabin</firstname>
+    <lastname>Bloquet</lastname>
+    <email>gabin.bloquet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Gautier</firstname>
+    <lastname>Borowczyk</lastname>
+    <email>gautier.borowczyk@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Stephane</firstname>
+    <lastname>Bourdon</lastname>
+    <email>stephane.bourdon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Amelie</firstname>
+    <lastname>Brilhault</lastname>
+    <email>amelie.brilhault@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Renaud</firstname>
+    <lastname>Carpentier</lastname>
+    <email>renaud.carpentier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Mohamed-Nassim</firstname>
+    <lastname>Cherifi</lastname>
+    <email>mn.cherifi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Mathieu</firstname>
+    <lastname>De Baerdemaeker</lastname>
+    <email>m.de-baerdemaeker@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Decamps</lastname>
+    <email>antoine.decamps@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Barthelemy</firstname>
+    <lastname>Delemotte</lastname>
+    <email>barthelemy.delemotte@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Dessenne</lastname>
+    <email>nicolas.dessenne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Didier</lastname>
+    <email>florian.didier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Ali</firstname>
+    <lastname>Douali</lastname>
+    <email>ali.douali@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Baptiste</firstname>
+    <lastname>Dufay</lastname>
+    <email>baptiste.dufay@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Paul</firstname>
+    <lastname>Dumont</lastname>
+    <email>paul.dumont@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Dupriez</lastname>
+    <email>alexandre.dupriez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Dutrieux</lastname>
+    <email>julien.dutrieux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Hennebert</lastname>
+    <email>thomas.hennebert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Horn</lastname>
+    <email>nicolas.horn@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Jouve</lastname>
+    <email>antoine.jouve@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Adam</firstname>
+    <lastname>Kerboua</lastname>
+    <email>adam.kerboua@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Kowalski</lastname>
+    <email>nicolas2.kowalski@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Lambour</lastname>
+    <email>jeremy.lambour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Vincent</firstname>
+    <lastname>Laude</lastname>
+    <email>vincent.laude@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Margaux</firstname>
+    <lastname>Lequertier</lastname>
+    <email>margaux.lequertier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Paul</firstname>
+    <lastname>Letailleur</lastname>
+    <email>paul.letailleur@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Magne</lastname>
+    <email>julien.magne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Edson-Laurens</firstname>
+    <lastname>Mephu Nguifo</lastname>
+    <email>edson.mephunguifo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Messiaen</lastname>
+    <email>kevin.messiaen@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Malik</firstname>
+    <lastname>Olivier</lastname>
+    <email>malik.olivier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Feriel</firstname>
+    <lastname>Ouarkoub</lastname>
+    <email>feriel.ouarkoub@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Koceila</firstname>
+    <lastname>Ouikene</lastname>
+    <email>koceila.ouikene@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Perrier</lastname>
+    <email>thomas.perrier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Place</lastname>
+    <email>antoine.place@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Aurelien</firstname>
+    <lastname>Pospieszynski</lastname>
+    <email>a.pospieszynski@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Raffini</lastname>
+    <email>clement.raffini@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Rousselle</lastname>
+    <email>alexandre.rousselle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Damien</firstname>
+    <lastname>SAUVALLE</lastname>
+    <email>damien.sauvalle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Yassine</firstname>
+    <lastname>Sansaoui</lastname>
+    <email>yassine.sansaoui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Assim-Tarek</firstname>
+    <lastname>Senoussi</lastname>
+    <email>assim-tarek.senoussi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Ramdane</firstname>
+    <lastname>Tabouda</lastname>
+    <email>ramdane.tabouda@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Gauthier</firstname>
+    <lastname>Tassin</lastname>
+    <email>gauthier.tassin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Vaillant</lastname>
+    <email>guillaume1.vaillant@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Fabien</firstname>
+    <lastname>Vantorre</lastname>
+    <email>fabien.vantorre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Pierre-Antoine</firstname>
+    <lastname>Waxin</lastname>
+    <email>pierre-antoine.waxin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>cyril</firstname>
+    <lastname>catteau</lastname>
+    <email>cyril.catteau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>liam</firstname>
+    <lastname>ladrouz</lastname>
+    <email>liam.ladrouz@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence MIAGE</class>
+  </student>
+  <student>
+    <firstname>Youva</firstname>
+    <lastname>Abassi</lastname>
+    <email>youva.abassi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Roman</firstname>
+    <lastname>Acevedo</lastname>
+    <email>roman.acevedo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Omar</firstname>
+    <lastname>Al Yasini</lastname>
+    <email>omar.al-yasini@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Hugo</firstname>
+    <lastname>Alder</lastname>
+    <email>hugo.alder@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Alvarez</lastname>
+    <email>alexandre.alvarez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mourad</firstname>
+    <lastname>Arab</lastname>
+    <email>mourad.arab@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Abderrahmane</firstname>
+    <lastname>Arbaoui</lastname>
+    <email>abderrahmane.arbaoui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mohammed</firstname>
+    <lastname>Arbaoui</lastname>
+    <email>mohammed.arbaoui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Arblay</lastname>
+    <email>thomas.arblay@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sylvain</firstname>
+    <lastname>Attoumani</lastname>
+    <email>sylvain.attoumani@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Claire</firstname>
+    <lastname>Auvray</lastname>
+    <email>claire.auvray@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Beste</firstname>
+    <lastname>Baltaci</lastname>
+    <email/>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Amir</firstname>
+    <lastname>Baziz</lastname>
+    <email>amir.baziz@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Beaussart</lastname>
+    <email>nicolas.beaussart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Becuwe</lastname>
+    <email>alexandre.becuwe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Louis</firstname>
+    <lastname>Behague</lastname>
+    <email>ld.behague@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Bernard</lastname>
+    <email>corentin.bernard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thibaut</firstname>
+    <lastname>Bernard</lastname>
+    <email>thibaut1.bernard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Martin</firstname>
+    <lastname>Bigand</lastname>
+    <email>martin.bigand@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Patrick</firstname>
+    <lastname>Bintcha</lastname>
+    <email>patrick.bintcha@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Dorian</firstname>
+    <lastname>Blondiaux</lastname>
+    <email>dorian.blondiaux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Boin</lastname>
+    <email>clement.boin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Robin</firstname>
+    <lastname>Bossart</lastname>
+    <email>robin.bossart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Elmehdi</firstname>
+    <lastname>BouJaafar</lastname>
+    <email>elmehdi.boujaafar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sacha</firstname>
+    <lastname>Bouillez</lastname>
+    <email>sacha.bouillez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mathias</firstname>
+    <lastname>Bouita</lastname>
+    <email>mathias.bouita@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Boulay</lastname>
+    <email>alexandre.boulay@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Bousbaci</lastname>
+    <email>quentin.bousbaci@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Slim</firstname>
+    <lastname>Bouslama</lastname>
+    <email>slim.bouslama@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Claire</firstname>
+    <lastname>Bouvelle</lastname>
+    <email>claire.bouvelle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Dounia</firstname>
+    <lastname>Bouzoubaa</lastname>
+    <email>dounia.bouzoubaa@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Brault</lastname>
+    <email>quentin.brault@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Paul</firstname>
+    <lastname>Buquet</lastname>
+    <email>paul.buquet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Burg</lastname>
+    <email>quentin.burg@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Campistron</lastname>
+    <email>thomas.campistron@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Marc</firstname>
+    <lastname>Canipel</lastname>
+    <email>marc.canipel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Catteau</lastname>
+    <email>maxime2.catteau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Hugo</firstname>
+    <lastname>Chaumette</lastname>
+    <email>hugo.chaumette@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mohamed-Sami</firstname>
+    <lastname>Cherif</lastname>
+    <email>mohamedsami.cherif@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Chigar</lastname>
+    <email>romain.chigar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sellenia</firstname>
+    <lastname>Chikhoune</lastname>
+    <email>sellenia.chikhoune@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Bastien</firstname>
+    <lastname>Chuffart</lastname>
+    <email>bastien.chuffart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Cimetiere</lastname>
+    <email>simon.cimetiere@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Courteville</lastname>
+    <email>julien.courteville@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Dambrine</lastname>
+    <email>valentin.dambrine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sophie</firstname>
+    <lastname>Danneels</lastname>
+    <email>sophie.dannnels@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Cyril</firstname>
+    <lastname>Decottignies</lastname>
+    <email>cyril.decottignes@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Gautier</firstname>
+    <lastname>Defossez</lastname>
+    <email>gautier.defossez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jonathan</firstname>
+    <lastname>Delbart</lastname>
+    <email>jonathan.delbart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Deleglise</lastname>
+    <email>remy.deleglise@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thibaud</firstname>
+    <lastname>Delobelle Toussaint</lastname>
+    <email>thibaud.delobelle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Denoeud</lastname>
+    <email>antoine.denoeud@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Deplechin</lastname>
+    <email>corentin.deplechin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Deregnaucourt</lastname>
+    <email>b.deregnaucourt@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Nathan</firstname>
+    <lastname>Desreveaux</lastname>
+    <email>nathan.desreveaux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Amelie</firstname>
+    <lastname>Dieryckx</lastname>
+    <email>amelie.dieryckx@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Louis</firstname>
+    <lastname>Duchateau</lastname>
+    <email>louis.duchateau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Dupuis</lastname>
+    <email>alexis1.dupuis@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Fouad</firstname>
+    <lastname>El Ati</lastname>
+    <email>fouad.el-ati@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jawad</firstname>
+    <lastname>El Ghamry</lastname>
+    <email>jawad.el-ghamry@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mehdi</firstname>
+    <lastname>El Houti</lastname>
+    <email>mehdi.elhouti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Ihab</firstname>
+    <lastname>El Kashef</lastname>
+    <email>ihab.el-kashef@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Yazid</firstname>
+    <lastname>Elhachimi</lastname>
+    <email>yazid.elhachimi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Abdeljalil</firstname>
+    <lastname>Errami</lastname>
+    <email>abdeljalil.errami@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Esquerre Pourtere</lastname>
+    <email>a.esquerre-pourtere@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Bastien</firstname>
+    <lastname>Fauchart</lastname>
+    <email>bastien.fauchart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Tiago-Filipe</firstname>
+    <lastname>Fernandes Cortinhal</lastname>
+    <email>fernandes-cortinhal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Corwin</firstname>
+    <lastname>Fevre</lastname>
+    <email>corwin.fevre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Raphael</firstname>
+    <lastname>Fitoussi</lastname>
+    <email>raphael.fitoussi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Celia</firstname>
+    <lastname>Fortin</lastname>
+    <email>celia.fortin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Matthieu</firstname>
+    <lastname>Gaillard</lastname>
+    <email>matthieu.gaillard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Garbe</lastname>
+    <email>yann.garbe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Leo-Paul</firstname>
+    <lastname>Geneau</lastname>
+    <email>leo-paul.geneau@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Grossemy</lastname>
+    <email>romain.grossemy@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Kamel-Eddine</firstname>
+    <lastname>Guergar</lastname>
+    <email>kamel-eddine.guergar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>David</firstname>
+    <lastname>Guillon</lastname>
+    <email>david.guillon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sonia</firstname>
+    <lastname>Hachemi</lastname>
+    <email>sonia.hachemi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sami</firstname>
+    <lastname>Halabi</lastname>
+    <email>sami.halabi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Anthony</firstname>
+    <lastname>Halipre</lastname>
+    <email>anthony.halipre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Naim</firstname>
+    <lastname>Harrat</lastname>
+    <email>naim.harrat@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Laury</firstname>
+    <lastname>Henneton</lastname>
+    <email>laury.henneton@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Heras</lastname>
+    <email>guillaume.heras@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Estelle</firstname>
+    <lastname>Heripret</lastname>
+    <email>estelle.heripret@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Lea</firstname>
+    <lastname>Hermant</lastname>
+    <email>lea.hermant@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Hirwa</lastname>
+    <email>kevin.hirwa@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Houplon</lastname>
+    <email>alexandre.houplon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Houset</lastname>
+    <email>thomas.houset@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Antoan</firstname>
+    <lastname>Hristov</lastname>
+    <email>antoan.hristov@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jean-Michel</firstname>
+    <lastname>Hugot</lastname>
+    <email>jean-michel.hugot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Marie</firstname>
+    <lastname>Joly</lastname>
+    <email>marie2.joly@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sophie</firstname>
+    <lastname>Kaleba</lastname>
+    <email>sophie.kaleba@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Sakina</firstname>
+    <lastname>Koukeb</lastname>
+    <email>sakina.koukeb@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Thibault</firstname>
+    <lastname>Ladent</lastname>
+    <email>thibault.ladent@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Lafrance</lastname>
+    <email>antoine.lafrance@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Hamid</firstname>
+    <lastname>Lafredi</lastname>
+    <email>hamid.lafredi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Selim</firstname>
+    <lastname>Lakhdar</lastname>
+    <email>selim.lakhdar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Lamoot</lastname>
+    <email>romain.lamoot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Le Pallac</lastname>
+    <email>simon.le-pallac@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Lecluse</lastname>
+    <email>alexis.lecluse@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Ryan</firstname>
+    <lastname>Lefebvre</lastname>
+    <email>ryan.lefebvre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Wissam</firstname>
+    <lastname>Lefevre</lastname>
+    <email>wissam.lefevre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Martin</firstname>
+    <lastname>Lemesle</lastname>
+    <email>martin.lemesle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Matthieu</firstname>
+    <lastname>Lepers</lastname>
+    <email>matthieu.lepers@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Rayan</firstname>
+    <lastname>Lesage</lastname>
+    <email>rayan.lesage@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Lopez</lastname>
+    <email>benjamin.lopez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Ling</firstname>
+    <lastname>Ma</lastname>
+    <email>ling.ma@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mehdi</firstname>
+    <lastname>Malamelli</lastname>
+    <email>mehdi.malamelli@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Marlot</lastname>
+    <email>maxime.marlot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Astelia</firstname>
+    <lastname>Massamba</lastname>
+    <email>astelia.massamba@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Francois</firstname>
+    <lastname>Masson</lastname>
+    <email>francois.masson@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Mastin</lastname>
+    <email>clement.mastin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alan</firstname>
+    <lastname>Menit</lastname>
+    <email>alan.menit@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Moreau</lastname>
+    <email>maxime2.moreau@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Morlet</lastname>
+    <email>kevin.morlet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Samuel</firstname>
+    <lastname>Moulard</lastname>
+    <email>samuel.moulard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Linca</firstname>
+    <lastname>Muco</lastname>
+    <email>linca.muco@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Anais-Marie-Simone</firstname>
+    <lastname>Munezero</lastname>
+    <email>ams.munezero@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexia</firstname>
+    <lastname>Omietanski</lastname>
+    <email>alexia.omietanski@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Ongenae</lastname>
+    <email>guillaume.ongenae@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Baptiste</firstname>
+    <lastname>Orieux</lastname>
+    <email>baptiste.orieux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Remi</firstname>
+    <lastname>Oswalt</lastname>
+    <email>remi.oswalt@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Mohand</firstname>
+    <lastname>Outioua</lastname>
+    <email>mohand.outioua@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Ludovic</firstname>
+    <lastname>Ouvry</lastname>
+    <email>ludovic.ouvry@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Pohle</lastname>
+    <email>maxime.pohle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Poulain</lastname>
+    <email>kevin1.poulain@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Poupart</lastname>
+    <email>valentin.poupart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Hajar</firstname>
+    <lastname>Rachid</lastname>
+    <email>hajar.rachid@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Raes</lastname>
+    <email>remy.raes@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Redant</lastname>
+    <email>benjamin.redant@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jeremie</firstname>
+    <lastname>Regnault</lastname>
+    <email>jeremie.regnault@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Theo</firstname>
+    <lastname>Renou</lastname>
+    <email>theo.renou@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Roland</lastname>
+    <email>arthur.roland@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Soufian</firstname>
+    <lastname>Salhi</lastname>
+    <email>soufian.salhi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Celestine</firstname>
+    <lastname>Sauvage</lastname>
+    <email>celestine.sauvage@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Philippe</firstname>
+    <lastname>Schmid</lastname>
+    <email>philippe.schmid@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Guillaume-Jean-J</firstname>
+    <lastname>Sem</lastname>
+    <email>guillaume-jean-j.sem@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Axel</firstname>
+    <lastname>Senechal</lastname>
+    <email>axel.senechal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Erwan</firstname>
+    <lastname>Senechal</lastname>
+    <email>erwan.senechal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Seys</lastname>
+    <email>nicolas.seys@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Rudy</firstname>
+    <lastname>Seys</lastname>
+    <email>rudy.seys@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Aurelien</firstname>
+    <lastname>Sille</lastname>
+    <email>aurelien.sille@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jonathan</firstname>
+    <lastname>Soleillet</lastname>
+    <email>jonathan.soleillet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Samuel</firstname>
+    <lastname>Soltysiak</lastname>
+    <email>samuel.soltysiak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Erwan</firstname>
+    <lastname>Sorgniard</lastname>
+    <email>erwan.sorgniard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jules</firstname>
+    <lastname>Spicht</lastname>
+    <email>jules.spicht@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Gauthier</firstname>
+    <lastname>Tassin</lastname>
+    <email>gauthier.tassin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Axel</firstname>
+    <lastname>Thavisouk</lastname>
+    <email>axel.thavisouk@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Abdoulaye-Cherif</firstname>
+    <lastname>Toure</lastname>
+    <email>ac.toure@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Trouchaud</lastname>
+    <email>alexandre.trouchaud@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Vamour</lastname>
+    <email>valentin.vamour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Vandesompele</lastname>
+    <email>pierre.vandesompele@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Vanhems</lastname>
+    <email>florian.vanhems@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Teo</firstname>
+    <lastname>Vasseur</lastname>
+    <email>teo.vasseur@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Vastra</lastname>
+    <email>alexandre.vastra@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Vergriete</lastname>
+    <email>florian.vergriete@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Lucile</firstname>
+    <lastname>Wenzel</lastname>
+    <email>lucile.wenzel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Willefert</lastname>
+    <email>guillaume.willefert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Said</firstname>
+    <lastname>Yebbah</lastname>
+    <email>said.yebbah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Jean-Alfred-Patinde</firstname>
+    <lastname>Zembo</lastname>
+    <email>jap.zembo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Lamine</firstname>
+    <lastname>Zenati</lastname>
+    <email>lamine.zenati@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>camille</firstname>
+    <lastname>lihouck</lastname>
+    <email>camille.lihouck@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>franck</firstname>
+    <lastname>rivierre</lastname>
+    <email>franck.rivierre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>qiaqian</firstname>
+    <lastname>sha</lastname>
+    <email>qianqian.sha@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>jonathan</firstname>
+    <lastname>solowieff</lastname>
+    <email>jonathan.solowieff@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>joel</firstname>
+    <lastname>troch</lastname>
+    <email>joel.troch@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>henri</firstname>
+    <lastname>valette</lastname>
+    <email>henri.valette@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Licence S5-S6</class>
+  </student>
+  <student>
+    <firstname>Daniel</firstname>
+    <lastname>Bensimhon</lastname>
+    <email>daniel.bensimhon@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Laurent</firstname>
+    <lastname>Canis</lastname>
+    <email>laurent1.canis@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Francis-Cedric</firstname>
+    <lastname>Cornaire</lastname>
+    <email>fc.cornaire@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Loic</firstname>
+    <lastname>Delwaulle</lastname>
+    <email>loic.delwaulle@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Tanguy</firstname>
+    <lastname>Depommier</lastname>
+    <email>tanguy.depommier@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Baptiste</firstname>
+    <lastname>Famchon</lastname>
+    <email>baptiste.famchon@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Guyot</lastname>
+    <email>clement.guyot@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Ludovic</firstname>
+    <lastname>Landschoot</lastname>
+    <email>ludovic.landschoot@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Mustapha</firstname>
+    <lastname>Nezzari</lastname>
+    <email>mustapha.nezzari@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Mathieu</firstname>
+    <lastname>Saab</lastname>
+    <email>mathieu.saab@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Laurent</firstname>
+    <lastname>Thiebault</lastname>
+    <email>la.thiebault@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 1 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Matthias</firstname>
+    <lastname>Adenin</lastname>
+    <email>matthias.adenin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Bilel</firstname>
+    <lastname>Aloui</lastname>
+    <email>bilel.aloui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Marie-Pascaline</firstname>
+    <lastname>Bamporeye</lastname>
+    <email>mp.bamporeye@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Lucas</firstname>
+    <lastname>Bourre</lastname>
+    <email>lucas.bourre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Clemence</firstname>
+    <lastname>Buche</lastname>
+    <email>clemence.buche@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Sebastien</firstname>
+    <lastname>Caillier</lastname>
+    <email>sebastien.caillier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Sofian</firstname>
+    <lastname>Casier</lastname>
+    <email>sofian.casier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Thibault</firstname>
+    <lastname>Coilliaux</lastname>
+    <email>thibault.coilliaux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Erwan</firstname>
+    <lastname>Delbrouque Prial</lastname>
+    <email>e.delbrouque-prial@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Dylan</firstname>
+    <lastname>Deleplanque</lastname>
+    <email>dylan.deleplanque@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Delporte</lastname>
+    <email>kevin.delporte@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Descamps</lastname>
+    <email>clement1.descamps@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Djellali</lastname>
+    <email>mohamed.djellali@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Paul</firstname>
+    <lastname>Fournier</lastname>
+    <email>paul2.fournier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Godon</lastname>
+    <email>alexandre.godon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Guilbert</lastname>
+    <email>florian.guilbert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Hilmoine</lastname>
+    <email>benjamin.hilmoine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Valerian</firstname>
+    <lastname>Kinyock</lastname>
+    <email>valerian.kinyock@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Baptiste</firstname>
+    <lastname>Lalande</lastname>
+    <email>baptiste.lalande@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Vincent</firstname>
+    <lastname>Leclercq</lastname>
+    <email>vincent.leclercq@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Teddy</firstname>
+    <lastname>Lequette</lastname>
+    <email>teddy.lequette@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Baptiste</firstname>
+    <lastname>Marbaix</lastname>
+    <email>baptiste.marbaix@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Monnot</lastname>
+    <email>quentin.monnot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Oumayma</firstname>
+    <lastname>Morhib</lastname>
+    <email>oumayma.morhib@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Amelie</firstname>
+    <lastname>Mulebecq</lastname>
+    <email>amelie.mulebecq@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Maurane</firstname>
+    <lastname>Perronny</lastname>
+    <email>maurane.perronny@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Margot</firstname>
+    <lastname>Six</lastname>
+    <email>margot.six@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Svirchevsky</lastname>
+    <email>nicolas.svirchevsky@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Amandine</firstname>
+    <lastname>Vaze</lastname>
+    <email>amandine.vaze@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Julian</firstname>
+    <lastname>Wattier</lastname>
+    <email>julian.wattier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>anice</firstname>
+    <lastname>bensalem</lastname>
+    <email>anice.ben-salem@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>florian</firstname>
+    <lastname>duquesne</lastname>
+    <email>florian.duquesne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 1 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Marouane</firstname>
+    <lastname>Abakarim</lastname>
+    <email>marouane.abakarim@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Adansar</lastname>
+    <email>mohamed.adansar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Ilias</firstname>
+    <lastname>Afrass</lastname>
+    <email>ilias.afrass@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Agusti</lastname>
+    <email>maxime.agusti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nadia</firstname>
+    <lastname>Ahassouni</lastname>
+    <email>nadia.ahassouni@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Salim</firstname>
+    <lastname>Aissaoui Tlemcani</lastname>
+    <email>s.aissaouitlemcani@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Moncef</firstname>
+    <lastname>Aoudia</lastname>
+    <email>moncef.aoudia@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Thibault</firstname>
+    <lastname>Arloing</lastname>
+    <email>thibault.arloing@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Souleymane</firstname>
+    <lastname>Atto Deba</lastname>
+    <email>souleymane.attodeba@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Igor</firstname>
+    <lastname>Axinti</lastname>
+    <email>igor.axinti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Fares</firstname>
+    <lastname>Azzar</lastname>
+    <email>fares.azzar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Pape-Ibrahima</firstname>
+    <lastname>Badiane</lastname>
+    <email>pi.badiane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Badot Bertrand</lastname>
+    <email>c.badot-bertrand@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Marc</firstname>
+    <lastname>Baloup</lastname>
+    <email>marc.baloup@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Salma</firstname>
+    <lastname>Bammou</lastname>
+    <email>salma.bammou@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Becart</lastname>
+    <email>alexandre.becart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Adrien</firstname>
+    <lastname>Beguin</lastname>
+    <email>adrien.beguin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mouez</firstname>
+    <lastname>Ben Hajria</lastname>
+    <email>mouez.ben-hajria@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Amine</firstname>
+    <lastname>Ben Salah</lastname>
+    <email>amine.bensalah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Laetissia</firstname>
+    <lastname>Benakli</lastname>
+    <email>laetissia.benakli@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Bermont</lastname>
+    <email>benjamin.bermont@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Berveglieri</lastname>
+    <email>nicolas.berveglieri@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Theophile</firstname>
+    <lastname>Blavoet</lastname>
+    <email>theophile.blavoet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jordan</firstname>
+    <lastname>Bouchoucha</lastname>
+    <email>jordan.bouchoucha@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jamal</firstname>
+    <lastname>Boudjaj</lastname>
+    <email>jamal.boudjaj@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Hajar</firstname>
+    <lastname>Bouhallaf</lastname>
+    <email>hajar.bouhallaf@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Malik</firstname>
+    <lastname>Boukrou</lastname>
+    <email>malik.boukrou@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxence</firstname>
+    <lastname>Bourdin</lastname>
+    <email>maxence.bourdin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Victor</firstname>
+    <lastname>Bourquin</lastname>
+    <email>victor.bourquin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Aymane</firstname>
+    <lastname>Bouziane</lastname>
+    <email>aymane.bouziane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Camille</firstname>
+    <lastname>Breuzon</lastname>
+    <email>camille.breuzon@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Eliott</firstname>
+    <lastname>Bricout</lastname>
+    <email>eliott.bricout@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxence</firstname>
+    <lastname>Brusc</lastname>
+    <email>maxence.brusc@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Bury</lastname>
+    <email>yann.bury@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Medhi</firstname>
+    <lastname>Bustin</lastname>
+    <email>medhi.bustin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Canda</lastname>
+    <email>antoine.canda@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mickael</firstname>
+    <lastname>Carton</lastname>
+    <email>mickael.carton@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Caruyer</lastname>
+    <email>pierre.caruyer@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Donia</firstname>
+    <lastname>Chaouch</lastname>
+    <email>donia.chaouch@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Aurelien</firstname>
+    <lastname>Charpantier</lastname>
+    <email>aurelien.charpantier@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Hammady</firstname>
+    <lastname>Cherif</lastname>
+    <email>hammady.cherif@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Anthonin</firstname>
+    <lastname>Cocagne</lastname>
+    <email>anthonin.cocagne@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Crosetti</lastname>
+    <email>nicolas.crosetti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Christophe</firstname>
+    <lastname>Cuvilliers</lastname>
+    <email>c.cuvilliers@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>D'azemar</lastname>
+    <email>arthur.dazemar@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Alex</firstname>
+    <lastname>Dalencourt</lastname>
+    <email>alex.dalencourt@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Rida</firstname>
+    <lastname>Darmal</lastname>
+    <email>rida.darmal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Tatiana</firstname>
+    <lastname>De Wyse</lastname>
+    <email>tatiana.de-wyse@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nabila</firstname>
+    <lastname>Dehouche</lastname>
+    <email>nabila.dehouche@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Delassus</lastname>
+    <email>alexandre.delassus@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Edouard</firstname>
+    <lastname>Delbar</lastname>
+    <email>edouard.delbar@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Delbeke</lastname>
+    <email>valentin.delbeke@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Delberghe</lastname>
+    <email>simon.delberghe@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Benoit</firstname>
+    <lastname>Delecroix</lastname>
+    <email>benoit.delecroix@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Arnaud</firstname>
+    <lastname>Deleruyelle</lastname>
+    <email>arnaud.deleruyelle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jordan</firstname>
+    <lastname>Delplanque</lastname>
+    <email>jordan.delplanque@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Sylvain</firstname>
+    <lastname>Devroede</lastname>
+    <email>sylvain.devroede@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Pierre-Claver</firstname>
+    <lastname>Diarra</lastname>
+    <email>pierre-claver.diarra@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mouhamadou</firstname>
+    <lastname>Dioum</lastname>
+    <email>mouhamadou.dioum@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Dorchies</lastname>
+    <email>guillaume.dorchies@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Stephane</firstname>
+    <lastname>Dos Santos Da Fonte</lastname>
+    <email>dos-santos-da-fonte@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Zakaria</firstname>
+    <lastname>Douazi</lastname>
+    <email>zakaria.douazi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Doutriaux</lastname>
+    <email>quentin.doutriaux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Dubois</lastname>
+    <email>yann1.dubois@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Aymeric</firstname>
+    <lastname>Ducroquetz</lastname>
+    <email>aymeric.ducroquetz@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Duflos</lastname>
+    <email>nicolas1.duflos@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Dumazy</lastname>
+    <email>clement.dumazy@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Lucile</firstname>
+    <lastname>Duthoit</lastname>
+    <email>lucile.duthoit@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Basile</firstname>
+    <lastname>Dyment</lastname>
+    <email>basile.dyment@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Norhane</firstname>
+    <lastname>El</lastname>
+    <email>norhane.el-gharbi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Eddy</firstname>
+    <lastname>El Khatib</lastname>
+    <email>eddy.el-khatib@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Sara</firstname>
+    <lastname>El Mahil</lastname>
+    <email>sara.elmahil@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maryem</firstname>
+    <lastname>Eloidi</lastname>
+    <email>maryem.eloidi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Brenda</firstname>
+    <lastname>Enriquez Rodriguez</lastname>
+    <email>brenda.enriquez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Loic</firstname>
+    <lastname>Fabre</lastname>
+    <email>loic.fabre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mahamoud-Mohamed</firstname>
+    <lastname>Farah</lastname>
+    <email>mm.farah@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Gallet</lastname>
+    <email>kevin.gallet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Duverger</firstname>
+    <lastname>Gbevo</lastname>
+    <email>duverger.gbevo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Aymeric</firstname>
+    <lastname>Giraudet</lastname>
+    <email>aymeric.giraudet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Ludovic</firstname>
+    <lastname>Goldak</lastname>
+    <email>ludovic.goldak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Louis</firstname>
+    <lastname>Guilbert</lastname>
+    <email>louis.guilbert@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Zakaria</firstname>
+    <lastname>Hadjadji</lastname>
+    <email>zakaria.hadjadji@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Louis</firstname>
+    <lastname>Hancquart</lastname>
+    <email>louis.hancquart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Hanquez</lastname>
+    <email>remy.hanquez@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Hayaert</lastname>
+    <email>thomas.hayaert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Hembert</lastname>
+    <email>romain.hembert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Hequette</lastname>
+    <email>pierre.hequette@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Taoufik</firstname>
+    <lastname>Hmidani</lastname>
+    <email/>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Claire</firstname>
+    <lastname>Hunter</lastname>
+    <email>claire.hunter@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mohamed-Amine</firstname>
+    <lastname>Ibouchna</lastname>
+    <email>ma.ibouchna@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Ahmed</firstname>
+    <lastname>Idriss Mohamed</lastname>
+    <email>ahmed.idrissmohamed@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Marie</firstname>
+    <lastname>Jones</lastname>
+    <email>marie.jones@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Sofiane</firstname>
+    <lastname>Kaci</lastname>
+    <email>sofiane1.kaci@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Kaddou</lastname>
+    <email>mohamed.kaddou@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Khalil</firstname>
+    <lastname>Laajine</lastname>
+    <email>khalil.laajine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Abigail</firstname>
+    <lastname>Lambin</lastname>
+    <email>abigail.lambin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Timothee</firstname>
+    <lastname>Laval</lastname>
+    <email>timothee.laval@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jonathan</firstname>
+    <lastname>Lecointe</lastname>
+    <email>jonathan.lecointe@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Lefebvre</lastname>
+    <email>benjamin3.lefebvre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Oceane</firstname>
+    <lastname>Legrand</lastname>
+    <email>oceane.legrand@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Cyriac</firstname>
+    <lastname>Lemaire</lastname>
+    <email>cyriac.lemaire@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Arnaud</firstname>
+    <lastname>Lemba</lastname>
+    <email>arnaud.lemba@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Gillian</firstname>
+    <lastname>Lepoetre</lastname>
+    <email>gillian.lepoetre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Loridan</lastname>
+    <email>florian.loridan@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Nassim</firstname>
+    <lastname>Lougrada</lastname>
+    <email>nassim.lougrada@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Alessandro</firstname>
+    <lastname>Magy</lastname>
+    <email>alessandro.magy@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Douae</firstname>
+    <lastname>Mahroug</lastname>
+    <email>douae.mahroug@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Maitrot</lastname>
+    <email>guillaume.maitrot@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Rick-Belfaure</firstname>
+    <lastname>Malembeti</lastname>
+    <email>rb.malembeti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Ayoub</firstname>
+    <lastname>Mamane</lastname>
+    <email>ayoub.mamane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jimmy</firstname>
+    <lastname>Marmin</lastname>
+    <email>jimmy.marmin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Maroine</lastname>
+    <email>maxime.maroine@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Ahmed</firstname>
+    <lastname>Marouani</lastname>
+    <email>ahmed.marouani@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Damien</firstname>
+    <lastname>Masson</lastname>
+    <email>damien.masson@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Vivien-Jorix</firstname>
+    <lastname>Mata</lastname>
+    <email>vivien-jorix.mata@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Mathias</lastname>
+    <email>jeremy.mathias@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mickael</firstname>
+    <lastname>Matuchak</lastname>
+    <email>mickael.matuchak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Menotti</lastname>
+    <email>maxime.menotti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Tony</firstname>
+    <lastname>Mercier</lastname>
+    <email>tony.mercier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Helene</firstname>
+    <lastname>Meyer</lastname>
+    <email>helene.meyer@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Lucas</firstname>
+    <lastname>Moura De Oliveira</lastname>
+    <email>lucas.moura-de@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Faical</firstname>
+    <lastname>Nachiti</lastname>
+    <email>faical.nachiti@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Noel</lastname>
+    <email>florian.noel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Marion-Saphire</firstname>
+    <lastname>Noirbent</lastname>
+    <email>ms.noirbent@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Dorian</firstname>
+    <lastname>Ongenae</lastname>
+    <email>dorian.ongenae@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Opsommer</lastname>
+    <email>maxime.opsommer@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Veis</firstname>
+    <lastname>Oudjail</lastname>
+    <email>veis.oudjail@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mohamed-Amin</firstname>
+    <lastname>Oukkal</lastname>
+    <email>mohamed-amin.oukkal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Pade</lastname>
+    <email>jerome.pade@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Martin</firstname>
+    <lastname>Pavie</lastname>
+    <email>martin.pavie@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Paul</firstname>
+    <lastname>Petit Jove</lastname>
+    <email>paul.jove@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Florentin</firstname>
+    <lastname>Peyroux</lastname>
+    <email>florentin.peyroux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Preuss</lastname>
+    <email>pierre.preuss@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Camille</firstname>
+    <lastname>Ramage</lastname>
+    <email>camille.ramage@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Philippe</firstname>
+    <lastname>Raquin</lastname>
+    <email>philippe.raquin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Roelandt</lastname>
+    <email>maxime.roelandt@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Titouan</firstname>
+    <lastname>Roos</lastname>
+    <email>titouan.roos@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Olame</firstname>
+    <lastname>Rukata David</lastname>
+    <email>olame.rukatadavid@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Ryckewaert</lastname>
+    <email>valentin.ryckewaert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Savary Leblanc</lastname>
+    <email>m.savary-leblanc@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Bara</firstname>
+    <lastname>Seck</lastname>
+    <email>bara.seck@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mehdi</firstname>
+    <lastname>Snaoui</lastname>
+    <email>mehdi.snaoui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Fatima-Ezzahra</firstname>
+    <lastname>Soufiane</lastname>
+    <email>fe.soufiane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Hui</firstname>
+    <lastname>Su</lastname>
+    <email>hui.su@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Benjamin</firstname>
+    <lastname>Szczapa</lastname>
+    <email>benjamin.szczapa@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Anas</firstname>
+    <lastname>Taibi</lastname>
+    <email>anas.taibi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mina</firstname>
+    <lastname>Taifour</lastname>
+    <email>mina.taifour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Safir</firstname>
+    <lastname>Talbi</lastname>
+    <email>safir.talbi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Tartara</lastname>
+    <email>guillaume.tartara@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Arnaud-Cedric</firstname>
+    <lastname>Tessa Kenfack</lastname>
+    <email>ac.tessa-kenfack@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Marion</firstname>
+    <lastname>Tommasi</lastname>
+    <email>marion.tommasi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Damien</firstname>
+    <lastname>Toulouse</lastname>
+    <email>damien.toulouse@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Frederic</firstname>
+    <lastname>Touquet</lastname>
+    <email>frederic.touquet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Mathieu</firstname>
+    <lastname>Van Nevel</lastname>
+    <email>mathieu.vannevel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Charles</firstname>
+    <lastname>Vaneenoo</lastname>
+    <email>charles.vaneenoo@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Verhaeghe</lastname>
+    <email>alexis1.verhaeghe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Theo</firstname>
+    <lastname>Verschaeve</lastname>
+    <email>theo.verschaeve@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Lucie</firstname>
+    <lastname>Vigreux</lastname>
+    <email>lucie.vigreux@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Zhi-Hao</firstname>
+    <lastname>Weng</lastname>
+    <email>zhihao.weng@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Marc</firstname>
+    <lastname>Zaghda</lastname>
+    <email>marc.zaghda@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>matthieu</firstname>
+    <lastname>bellamy</lastname>
+    <email>matthieu.bellamy@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>mustapha</firstname>
+    <lastname>elazzam</lastname>
+    <email>mustapha.elazza@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master</class>
+  </student>
+  <student>
+    <firstname>Oum-Rjal</firstname>
+    <lastname>Aberkane</lastname>
+    <email>oum-rjal.aberkane@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Adrien</firstname>
+    <lastname>Agez</lastname>
+    <email>adrien.agez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Amara</lastname>
+    <email>antoine.amara@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Samy</firstname>
+    <lastname>Ameur</lastname>
+    <email>samy.ameur@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Ilhem</firstname>
+    <lastname>Badreddine</lastname>
+    <email>ilhem.badreddine@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Khaled</firstname>
+    <lastname>Belkadi</lastname>
+    <email>khaled.belkadi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Jean</firstname>
+    <lastname>Bertrand</lastname>
+    <email>jean.bertrand@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Nassim</firstname>
+    <lastname>Bouazabia</lastname>
+    <email>nassim.bouazabia@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Armand</firstname>
+    <lastname>Bour</lastname>
+    <email>armand.bour@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Thibaut</firstname>
+    <lastname>Brunel</lastname>
+    <email>thibaut.brunel@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Yucheng</firstname>
+    <lastname>Cao</lastname>
+    <email>yucheng.cao@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Aristide</firstname>
+    <lastname>Cardon</lastname>
+    <email>aristide.cardon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Maxence</firstname>
+    <lastname>De Rous</lastname>
+    <email>maxence.de-rous@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Nathanael</firstname>
+    <lastname>Debaque</lastname>
+    <email>nathanael.debaque@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Gaetan</firstname>
+    <lastname>Deflandre</lastname>
+    <email>gaetan.deflandre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Christopher</firstname>
+    <lastname>Deshaies</lastname>
+    <email>christopher.deshaies@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Dhersin</lastname>
+    <email>jerome.dhersin@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Jean-Frederic</firstname>
+    <lastname>Durand</lastname>
+    <email>jean-frederic.durand@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Moulay-Mehdi</firstname>
+    <lastname>Elmoutaoukil</lastname>
+    <email>mm.elmoutaoukil@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Fabien</firstname>
+    <lastname>Fache</lastname>
+    <email>fabien.fache@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Vasilina</firstname>
+    <lastname>Frolkova</lastname>
+    <email>vasilina.frolkova@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Youssef</firstname>
+    <lastname>Id Taleb</lastname>
+    <email>youssef.id-taleb@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>El-Mehdi</firstname>
+    <lastname>Jardani</lastname>
+    <email>elmehdi.jardani@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Radhieddine</firstname>
+    <lastname>Jlidi</lastname>
+    <email>radhieddine.jlidi@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Lepretre</lastname>
+    <email>remy1.lepretre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Nabil</firstname>
+    <lastname>Maiz</lastname>
+    <email>nabil.maiz@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Dimitri</firstname>
+    <lastname>Makles</lastname>
+    <email>dimitri.makles@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Malapel</lastname>
+    <email>florian.malapel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Mallet</lastname>
+    <email>julien1.mallet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Megdoud</lastname>
+    <email>mohamed.megdoud@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Rim</firstname>
+    <lastname>Nechad</lastname>
+    <email>rim.nechad@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Honore</firstname>
+    <lastname>Nintunze</lastname>
+    <email>honore.nintunze@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Wassim</firstname>
+    <lastname>Ouartsi</lastname>
+    <email>wassim.ouartsi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Thibaut</firstname>
+    <lastname>Pernet</lastname>
+    <email>thibaut.pernet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Charlie</firstname>
+    <lastname>Quetstroey</lastname>
+    <email>charlie.quetstroey@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Anthony</firstname>
+    <lastname>Raingeval</lastname>
+    <email>anthony.raingeval@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Ramecourt</lastname>
+    <email>valentin.ramecourt@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Roche</lastname>
+    <email>julien.roche@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Soret</lastname>
+    <email>julien.soret@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Stamper</lastname>
+    <email>corentin.stamper@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Tanghe</lastname>
+    <email>jerome.tanghe@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Thorez</lastname>
+    <email>alexandre.thorez@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Van De Kadsye</lastname>
+    <email>q.van-de-kadsye@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Romain</firstname>
+    <lastname>Vandekerckhove</lastname>
+    <email>r.vandekerckhove@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Vasseur</lastname>
+    <email>nicolas.vasseur@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Verlyck</lastname>
+    <email>jerome.verlyck@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Sarah</firstname>
+    <lastname>Wissocq</lastname>
+    <email>sarah.wissocq@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Shijin</firstname>
+    <lastname>Xu</lastname>
+    <email>shijin.xu@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Xiaofan</firstname>
+    <lastname>Xu</lastname>
+    <email>xiaofan.xu@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 E-Services</class>
+  </student>
+  <student>
+    <firstname>Mickael</firstname>
+    <lastname>Alvarez</lastname>
+    <email>mickael.alvarez@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Nathan</firstname>
+    <lastname>Bacquet</lastname>
+    <email>nathan.bacquet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Marine</firstname>
+    <lastname>Bal</lastname>
+    <email>marine.bal@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Latifa</firstname>
+    <lastname>Bouchouaf</lastname>
+    <email>latifa.bouchouaf@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Junior</firstname>
+    <lastname>Burleon</lastname>
+    <email>junior.burleon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Simon</firstname>
+    <lastname>Decottignies</lastname>
+    <email>simon.decottignies@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Jean-Baptiste</firstname>
+    <lastname>Delaeter</lastname>
+    <email>jb.delaeter@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Delperdange</lastname>
+    <email>nicolas.delperdange@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Lucas</firstname>
+    <lastname>Delvallet</lastname>
+    <email>lucas.delvallet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Quentin</firstname>
+    <lastname>Delvallet</lastname>
+    <email>quentin.delvallet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Doublet</lastname>
+    <email>florian.doublet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Antonin</firstname>
+    <lastname>Durey</lastname>
+    <email>antonin.durey@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Geoffrey</firstname>
+    <lastname>Escobedo</lastname>
+    <email>geoffrey.escobedo@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>David</firstname>
+    <lastname>Fitoussi</lastname>
+    <email>david.fitoussi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Remi</firstname>
+    <lastname>Kruczek</lastname>
+    <email>remi.kruczek@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Lesage</lastname>
+    <email>yann.lesage@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Jihad</firstname>
+    <lastname>Mansour El Fakawy</lastname>
+    <email>j.mansour-el-fakawy@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Hedi</firstname>
+    <lastname>Mokhtar</lastname>
+    <email>medi.mokhtar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Jose</firstname>
+    <lastname>Pansa</lastname>
+    <email>jose.pansa@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Antoine</firstname>
+    <lastname>Petit</lastname>
+    <email>antoine1.petit@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Badr</firstname>
+    <lastname>Rahal</lastname>
+    <email>badr.rahal@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Jonathan</firstname>
+    <lastname>Wadin</lastname>
+    <email>jonathan.wadin@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Franck</firstname>
+    <lastname>Warlouzet</lastname>
+    <email>franck.warlouzet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Etienne</firstname>
+    <lastname>Wattebled</lastname>
+    <email>etienne.wattebled@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Sofiane</firstname>
+    <lastname>Yousfi</lastname>
+    <email>sofiane1.yousfi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>benjamin</firstname>
+    <lastname>coenen</lastname>
+    <email>benjamin.coenen@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>denis</firstname>
+    <lastname>hamann</lastname>
+    <email>denis.hamann@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IAGL</class>
+  </student>
+  <student>
+    <firstname>Corentin</firstname>
+    <lastname>Allard</lastname>
+    <email>corentin.allard@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Axel</firstname>
+    <lastname>Antoine</lastname>
+    <email>axel.antoine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Tristan</firstname>
+    <lastname>Camus</lastname>
+    <email>tristan.camus@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Dimitri</firstname>
+    <lastname>Charneux</lastname>
+    <email>dimitri.charneux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Arnaud</firstname>
+    <lastname>Cojez</lastname>
+    <email>arnaud.cojez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Remi</firstname>
+    <lastname>Kroll</lastname>
+    <email>remi.kroll@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Natacha</firstname>
+    <lastname>Lambert</lastname>
+    <email>natacha.lambert@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Yohann</firstname>
+    <lastname>Lescieux</lastname>
+    <email>yohann.lescieux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Pierart</lastname>
+    <email>valentin.pierart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Sofiane</firstname>
+    <lastname>Rahaoui</lastname>
+    <email>sofiane.rahaoui@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Xavier</firstname>
+    <lastname>Streel</lastname>
+    <email>xavier.streel@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 IVI</class>
+  </student>
+  <student>
+    <firstname>Benoit</firstname>
+    <lastname>Bailleul</lastname>
+    <email>benoit1.bailleul@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Teo</firstname>
+    <lastname>Brisse</lastname>
+    <email>teo.brisse@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Cedric</firstname>
+    <lastname>Duhautois</lastname>
+    <email>cedric.duhautois@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Sylvie</firstname>
+    <lastname>Eveque</lastname>
+    <email>sylvie.eveque@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Cyril</firstname>
+    <lastname>Ferlicot Delbecque</lastname>
+    <email>c.ferlicot-delbecque@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Flamen</lastname>
+    <email>julien.flamen@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Giles</lastname>
+    <email>jeremy.giles@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Floriane</firstname>
+    <lastname>Goubel</lastname>
+    <email>floriane.goubel@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Said</firstname>
+    <lastname>Hossainy</lastname>
+    <email>said.hossainy@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Jacquet</lastname>
+    <email>guillaume.jacquet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Leo</firstname>
+    <lastname>Jumel</lastname>
+    <email>leo.jumel@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Loic</firstname>
+    <lastname>Laumon</lastname>
+    <email>loic.laumon@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Thomas</firstname>
+    <lastname>Ostrowski</lastname>
+    <email>thomas.ostrowski@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Maxime</firstname>
+    <lastname>Piquet</lastname>
+    <email>maxime.piquet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Aurelien</firstname>
+    <lastname>Rousseau</lastname>
+    <email>aurelien.rousseau@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Thach</lastname>
+    <email>jeremy.thach@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Lea</firstname>
+    <lastname>Vanelle</lastname>
+    <email>lea.vanelle@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Hamza</firstname>
+    <lastname>Youssouf Adaweh</lastname>
+    <email>hamza.youssouf@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>vincent</firstname>
+    <lastname>margerin</lastname>
+    <email>vincent.margerin@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 MIAGE FA-FC</class>
+  </student>
+  <student>
+    <firstname>Adrien</firstname>
+    <lastname>Badts</lastname>
+    <email>adrien.badts@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Mohamed-Ilias</firstname>
+    <lastname>Benncer</lastname>
+    <email>mi.benncer@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Francois</firstname>
+    <lastname>Bohyn</lastname>
+    <email>francois.bohyn@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Cyrille</firstname>
+    <lastname>Briere</lastname>
+    <email>cyrille.briere@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Jeremy</firstname>
+    <lastname>Carment</lastname>
+    <email>jeremy.carment@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Valentin</firstname>
+    <lastname>Caulier</lastname>
+    <email>valentin.caulier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Florian</firstname>
+    <lastname>Danel</lastname>
+    <email>florian.danel@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Ghassen</firstname>
+    <lastname>Dhrif</lastname>
+    <email>ghassen.dhrif@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Clement</firstname>
+    <lastname>Dilly</lastname>
+    <email>clement.dilly@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Ibrahim</firstname>
+    <lastname>El Akhdar</lastname>
+    <email>ibrahim.elakhdar@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Thibaut</firstname>
+    <lastname>Godon</lastname>
+    <email>thibaut.godon@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Amani</firstname>
+    <lastname>Hmandi</lastname>
+    <email>amani.hmandi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Mathilde</firstname>
+    <lastname>Le Goff</lastname>
+    <email>mathilde.le-goff@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Lefebvre</lastname>
+    <email>alexandre3.lefebvre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Gaston</firstname>
+    <lastname>Lemaire</lastname>
+    <email>gaston.lemaire@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Greg</firstname>
+    <lastname>Nowak</lastname>
+    <email>greg.nowak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Sofiane</firstname>
+    <lastname>Ouarab</lastname>
+    <email>sofiane.ouarab@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Willy</firstname>
+    <lastname>Pezant</lastname>
+    <email>willy.pezant@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Pierre</firstname>
+    <lastname>Routier</lastname>
+    <email>pierre.routier@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MIAGE</class>
+  </student>
+  <student>
+    <firstname>Maria</firstname>
+    <lastname>Ashaeva</lastname>
+    <email>maria.ashaeva@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Matthieu</firstname>
+    <lastname>Caron</lastname>
+    <email>matthieu1.caron@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Pierrick</firstname>
+    <lastname>Deshayes</lastname>
+    <email>pierrick.deshayes@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Dubrulle</lastname>
+    <email>nicolas.dubrulle@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Remi</firstname>
+    <lastname>Gausin</lastname>
+    <email>remi.gausin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Moevi</lastname>
+    <email>alexandre.moevi@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Pernet</lastname>
+    <email>alexis.pernet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Congcong</firstname>
+    <lastname>Xu</lastname>
+    <email>congcong.xu@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Yuan</firstname>
+    <lastname>Yao</lastname>
+    <email>yuan.yao@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>razan</firstname>
+    <lastname>assaad</lastname>
+    <email>razan.assaad@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 MOCAD</class>
+  </student>
+  <student>
+    <firstname>Lahcene</firstname>
+    <lastname>Abdelhak</lastname>
+    <email>lahcene.abdelhak@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Rachad</firstname>
+    <lastname>Abi Chahine</lastname>
+    <email>rachad.abi-chahine@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Alexis</firstname>
+    <lastname>Beaujet</lastname>
+    <email>alexis.beaujet@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Massiva</firstname>
+    <lastname>Bouhanik</lastname>
+    <email>massiva.bouhanik@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Frederic</firstname>
+    <lastname>Bury</lastname>
+    <email>frederic.bury@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Remy</firstname>
+    <lastname>Debue</lastname>
+    <email>remy.debue@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Loik</firstname>
+    <lastname>Desmons</lastname>
+    <email>loik.desmons@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Arthur</firstname>
+    <lastname>Dewarumez</lastname>
+    <email>arthur.dewarumez@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>El Alaoui Najib</lastname>
+    <email>m.elalaouinajib@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Eric</firstname>
+    <lastname>Elisabeth</lastname>
+    <email>eric.elisabeth@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Fieni</lastname>
+    <email>guillaume.fieni@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Didier</firstname>
+    <lastname>George</lastname>
+    <email>didier.george@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Marianne</firstname>
+    <lastname>Gomis</lastname>
+    <email>marianne.gomis@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Richard</firstname>
+    <lastname>Grandjean</lastname>
+    <email>richard.grandjean@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Philippe</firstname>
+    <lastname>Guilloux</lastname>
+    <email>philippe.guilloux@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Guillaume</firstname>
+    <lastname>Guinaudeau</lastname>
+    <email>guillaume.guinaudeau@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Etienne</firstname>
+    <lastname>Helluy Lafont</lastname>
+    <email>e.helluy-lafont@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Abdessamad</firstname>
+    <lastname>Jarir</lastname>
+    <email>abdessamad.jarir@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Christopher</firstname>
+    <lastname>Knapik</lastname>
+    <email>christopher.knapik@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Kevin</firstname>
+    <lastname>Lanvin</lastname>
+    <email>kevin.lanvin@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Timothee</firstname>
+    <lastname>Lefebvre</lastname>
+    <email>timothee.lefebvre@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Jose</firstname>
+    <lastname>Lezouret</lastname>
+    <email>jose.lezouret@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Axel</firstname>
+    <lastname>Lheureux</lastname>
+    <email>axel.lheureux@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Yann</firstname>
+    <lastname>Moyart</lastname>
+    <email>yann.moyart@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Alain</firstname>
+    <lastname>Muller</lastname>
+    <email>alain.muller@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Merwan</firstname>
+    <lastname>Ouddane</lastname>
+    <email>merwan.ouddane@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Theo</firstname>
+    <lastname>Plockyn</lastname>
+    <email>theo.plockyn@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Kamel</firstname>
+    <lastname>Rahim</lastname>
+    <email>kamel.rahim@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Nicolas</firstname>
+    <lastname>Rochet</lastname>
+    <email>nicolas.rochet@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Lynda</firstname>
+    <lastname>Sahnoune</lastname>
+    <email>lynda.sahnoune@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Mathieu</firstname>
+    <lastname>Sbai</lastname>
+    <email/>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Jerome</firstname>
+    <lastname>Strabach</lastname>
+    <email>jerome.strabach@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Narjis</firstname>
+    <lastname>Taoufik</lastname>
+    <email>narjis.taoufik@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Thierry</firstname>
+    <lastname>Thomas</lastname>
+    <email>thierry.thomas@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Julien</firstname>
+    <lastname>Wachowiak</lastname>
+    <email>julien.wachowiak@etudiant.univ-lille1.fr</email>
+    <fc>false</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+  <student>
+    <firstname>Alexandre</firstname>
+    <lastname>Wieczorek</lastname>
+    <email>alexandre.wieczorek@etudiant.univ-lille1.fr</email>
+    <fc>true</fc>
+    <class>Master 2 TIIR</class>
+  </student>
+</students>
