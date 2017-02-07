@@ -25,7 +25,7 @@ const studentInsert = "UPDATE student SET hostname=?, hostname_ts=dateOf(now()) 
 function collect(user, hostname, callback){
   const reportParams = [ user, hostname ]
   const stationParams = [ hostname, user ]
-  const studentarams = [ hostname, user ]
+  const studentParams = [ hostname, user ]
   return Promise.all([
     client.execute(reportInsert, reportParams, { prepared: true }),
     client.execute(stationInsert, stationParams, { prepared: true }),
