@@ -22,5 +22,5 @@ CREATE TABLE IF NOT EXISTS student (
   class text,
   fc boolean,
   hostname text,
-  hostname_ts,
+  hostname_ts timestamp,
 );
