@@ -2,10 +2,12 @@
 
 from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider
+from lxml import etree
 
 CASSANDRA_ENDPOINT = "localhost"
 CASSANDRA_USER = "changeme"
 CASSANDRA_PASSWORD = "changeme"
+STUDENTS_FILE = 'students.xml'
 
 class DatabaseAdapter:
     def __init__(self):
@@ -73,7 +75,32 @@ class Student:
         except Exception as e:
             return None
 
+    def __str__(self):
+        return ("%s %s %s %d %s" % (
+            self.firstname, self.lastname, self.email, self.fc, self.class_
+        ))
+
+
+class XMLParser:
+    def __init__(self):
+        pass
+
+    def parse(self, filename):
+        self._root = etree.parse(filename)
+        return self
+
+    def nextStudent(self):
+        for studentElement in self._root.xpath('/students/student'):
+            yield Student(
+                firstname = studentElement.xpath('firstname')[0].text,
+                lastname = studentElement.xpath('lastname')[0].text,
+                email = studentElement.xpath('email')[0].text,
+                class_ = studentElement.xpath('class')[0].text,
+                fc = bool(studentElement.xpath('class')[0].text)
+            )
+
 def main():
+
     adapter = DatabaseAdapter().configure(
         endpoint=CASSANDRA_ENDPOINT,
         user=CASSANDRA_USER,
@@ -82,14 +109,13 @@ def main():
     adapter.connect().use("mapview")
 
     manager = StudentManager(adapter).perpareStatements()
-    manager.insert(Student(
-        firstname="barthelemy",
-        lastname="delemotte",
-        email="barthelemy.delemotte@univ-lille1.fr",
-        fc=False,
-        class_="L3 MIAGE"
-    ))
+
+    parser = XMLParser().parse(STUDENTS_FILE)
+    for student in parser.nextStudent():
+        manager.insert(student)
+
     adapter.shutdown()
+
 
 if __name__ == '__main__':
     main()

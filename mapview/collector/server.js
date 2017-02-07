@@ -35,10 +35,15 @@ server.route({
   path: '/collect',
   handler: function (request, reply) {
     var { hostname, user } = request.payload
-    collect(user, hostname).then(result => reply({
-      error: false,
-      message: "thanks"
-    }))
+    collect(user, hostname)
+      .then(result => reply({
+        error: false,
+        message: "thanks"
+      }))
+      .catch(err => reply({
+        error: true,
+        message: "sorry"
+      }))
   },
   config: {
     validate: {
