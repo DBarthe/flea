@@ -4,7 +4,7 @@ from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider
 
 CASSANDRA_ENDPOINT = "localhost"
-CASSANDRA_USER = "changme"
+CASSANDRA_USER = "changeme"
 CASSANDRA_PASSWORD = "changeme"
 
 class DatabaseAdapter:
@@ -45,7 +45,7 @@ class StudentManager:
         self._insertStudentStmt = None
 
     def perpareStatements(self):
-        self._insertStudentStmt = slef._adapter.prepare("""
+        self._insertStudentStmt = self._adapter.prepare("""
             INSERT INTO student (login, firstname, lastname, email, fc, class)
             VALUES (?, ?, ?, ?, ?, ?);
         """)
@@ -59,7 +59,7 @@ class StudentManager:
         return self
 
 class Student:
-    def __init__(firstname, lastname, email, fc, class_):
+    def __init__(self, firstname, lastname, email, fc, class_):
         self.firstname = firstname
         self.lastname = lastname
         self.email = email
@@ -81,7 +81,7 @@ def main():
     )
     adapter.connect().use("mapview")
 
-    manager = Manager().perpareStatements()
+    manager = StudentManager(adapter).perpareStatements()
     manager.insert(Student(
         firstname="barthelemy",
         lastname="delemotte",
