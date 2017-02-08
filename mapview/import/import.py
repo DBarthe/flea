@@ -3,6 +3,9 @@
 from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider
 from lxml import etree
+from distutils.util import strtobool
+import getpass
+import sys
 
 CASSANDRA_ENDPOINT = "localhost"
 CASSANDRA_USER = "changeme"
@@ -103,15 +106,22 @@ class XMLParser:
                 lastname = studentElement.xpath('lastname')[0].text,
                 email = studentElement.xpath('email')[0].text,
                 class_ = studentElement.xpath('class')[0].text,
-                fc = bool(studentElement.xpath('class')[0].text)
+                fc = bool(strtobool(studentElement.xpath('fc')[0].text))
             )
 
-def main():
+def main(argv):
+
+    if len(argv) < 2:
+        print ("usage: %s <cassandra_user>" % argv[0])
+        exit (1)
+
+    user = argv[1]
+    password = getpass.getpass()
 
     adapter = DatabaseAdapter().configure(
         endpoint=CASSANDRA_ENDPOINT,
-        user=CASSANDRA_USER,
-        password=CASSANDRA_PASSWORD
+        user=user,
+        password=password
     )
     adapter.connect().use("mapview")
 
@@ -119,10 +129,13 @@ def main():
 
     parser = XMLParser().parse(STUDENTS_FILE)
     for student in parser.nextStudent():
-        manager.insert(student)
+        if student.login == None:
+            print (student)
+        else:
+            manager.insert(student)
 
     adapter.shutdown()
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
