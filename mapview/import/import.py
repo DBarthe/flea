@@ -8,8 +8,6 @@ import getpass
 import sys
 
 CASSANDRA_ENDPOINT = "localhost"
-CASSANDRA_USER = "changeme"
-CASSANDRA_PASSWORD = "changeme"
 STUDENTS_FILE = 'students.xml'
 
 class DatabaseAdapter:
@@ -64,6 +62,23 @@ class StudentManager:
         return self
 
 class Student:
+
+    CLASS_MAP = {
+        'Master 2 TIIR': 'M2 TIIR',
+        'Master 2 MOCAD': 'M2 MOCAD',
+        'Master 2 MIAGE FA-FC': 'M2 MIAGE',
+        'Master 2 MIAGE': 'M2 MIAGE',
+        'Master 2 IVI': 'M2 IVI',
+        'Master 2 IAGL': 'M2 IAGL',
+        'Master 2 E-Services': 'M2 E-Services',
+        'Master': 'M1 Info',
+        'Master 1 MIAGE': 'M1 MIAGE',
+        'Master 1 MIAGE FA-FC': 'M1 MIAGE',
+        'Licence S5-S6': 'L3 Info',
+        'Licence MIAGE': 'L3 MIAGE',
+        'Licence S3 - S4': 'L2 Info'
+    }
+
     def __init__(self, firstname, lastname, email, fc, class_):
         self.firstname = firstname
         self.lastname = lastname
@@ -71,9 +86,10 @@ class Student:
             email = ("%s.%s@etudiant.univ-lille1.fr" % (lastname, firstname)).lower()
         self.email = email
         self.fc = fc
-        if class_ == "Master":
-            class_ = "Master 1"
-        self.class_ = class_
+        if Student.CLASS_MAP.has_key(class_):
+            self.class_ = Student.CLASS_MAP[class_]
+        else:
+            self.class_ = class_
 
     @property
     def login(self):
@@ -123,7 +139,7 @@ def main(argv):
         user=user,
         password=password
     )
-    adapter.connect().use("mapview")
+    adapter.connect().use("fil")
 
     manager = StudentManager(adapter).perpareStatements()
 
