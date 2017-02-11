@@ -17,14 +17,14 @@ CREATE TABLE IF NOT EXISTS report_by_hostname (
   hostname text,
   login text,
   ts timestamp,
-  PRIMARY KEY (hostname, login)
+  PRIMARY KEY (hostname, login, ts)
 );
 
 CREATE TABLE IF NOT EXISTS report_by_login (
   hostname text,
   login text,
   ts timestamp,
-  PRIMARY KEY (login, hostname)
+  PRIMARY KEY (login, hostname, ts)
 );
 
 CREATE TABLE IF NOT EXISTS student (

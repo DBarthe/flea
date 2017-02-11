@@ -20,16 +20,12 @@ client.connect(function (err){
   assert.ifError(err)
 })
 
-const reportByHostnameInsert = "INSERT INTO report (hostname, login, ts) VALUES ( ?, ?, dateOf(now())) ;"
-const reportByLoginInsert = "INSERT INTO report (login, hostname, ts) VALUES ( ?, ?, dateOf(now())) ;"
-const stationInsert = "INSERT INTO station (building, hostname, user, ts) VALUES ('M5', ?, dateOf(now()))"
+const reportByHostnameInsert = "INSERT INTO report_by_hostname (hostname, login, ts) VALUES ( ?, ?, dateOf(now())) ;"
+const reportByLoginInsert = "INSERT INTO report_by_login (login, hostname, ts) VALUES ( ?, ?, dateOf(now())) ;"
+const stationInsert = "INSERT INTO station (building, hostname, login, ts) VALUES (1, ?, ?, dateOf(now()))"
 const studentInsert = "UPDATE student SET hostname=?, hostname_ts=dateOf(now()) WHERE login=?;"
 
 function collect(user, hostname, callback){
-
-  if (user == 'empty'){
-    user = null;
-  }
 
   const reportByHostnameParams = [ hostname, user ]
   const reportByLoginParams = [ user, hostname ]
@@ -41,8 +37,8 @@ function collect(user, hostname, callback){
     client.execute(stationInsert, stationParams, { prepared: true })
   ];
 
-  if (!user) {
-    queries.push(client.execute(reportByLoginInsert, reportByHostnameParams, { prepared: true }));
+  if (user != 'empty') {
+    queries.push(client.execute(reportByLoginInsert, reportByLoginParams, { prepared: true }));
     queries.push(client.execute(studentInsert, studentParams, { prepared: true }));
   }
 
