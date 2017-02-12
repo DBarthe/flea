@@ -1,0 +1,10 @@
+'use strict';
+
+module.exports = {
+    cassandra: {
+        user: 'changeme',
+        password: 'changeme',
+        keyspace: 'changeme',
+        endpoint: 'changeme',
+    }
+}
