@@ -11,6 +11,11 @@ from threading import Thread
 import logging
 
 
+INTERVAL_PROPAGATE = 30
+INTERVAL_REPORT = 20
+INTERVAL_CHECKQUIT = 10
+
+
 #hostTableSpec = [(10,1,27),(15,1,24),(13,1,24),(12,1,24)]
 #hostTableSpec = [(11,23,24)]
 
@@ -66,7 +71,7 @@ STATIC_HOST_TABLE = [
 startBotCommand="cd ~/flea/bot && ./start-ilda.sh"
 
 selfHost = socket.gethostname()
-logFile = './log/%s.pid' % selfHost
+logFile = './log/%s.log' % selfHost
 
 logging.basicConfig(filename=logFile,level=logging.DEBUG,
                     format='[%(asctime)s][' + selfHost +'] %(levelname)s: %(message)s')
@@ -99,9 +104,9 @@ def killSubProcesses():
 
 def executeOverSSH(host, cmd):
     logging.info("ssh %s %s" % (host, cmd))
-    ssh = subprocess.Popen(["ssh", "-oStrictHostKeyChecking=no", host, cmd],
-                           stdout=subprocess.PIPE,
-                           stderr=subprocess.PIPE)
+    ssh = subprocess.Popen([
+        "ssh", "-oStrictHostKeyChecking=no", '-oBatchMode=yes', '-oConnectTimeout=3',
+        host, cmd], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     subProcessList.append(ssh)
     for line in ssh.stdout.readlines():
         logging.info(line.decode("utf-8").strip())
@@ -143,9 +148,6 @@ def sendReport():
         logging.info("report not sent : [%d] %s", res.returncode, response)
 
 
-INTERVAL_PROPAGATE = 60
-INTERVAL_REPORT = 30
-INTERVAL_CHECKQUIT = 10
 
 def main():
     atexit.register(killSubProcesses)
