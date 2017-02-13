@@ -2,7 +2,7 @@
 
 const cassandra = require('cassandra-driver');
 
-class Manager {
+class Connection {
     constructor() {
         this._client = null;
         this._authProvider = null;
@@ -23,6 +23,10 @@ class Manager {
     connect() {
         return this._client.connect();
     }
+
+    get client() {
+        return this._client;
+    }
 }
 
-module.exports = Manager;
+module.exports = Connection;

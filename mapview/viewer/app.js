@@ -5,7 +5,7 @@ const logger = require('morgan');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 
-const cassandra = require('./cassandra/index.js');
+const cassandra = require('./cassandra');
 const routes = require('./routes/index');
 const config = require('./config.js');
 
@@ -16,15 +16,15 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
 // cassandra setup
-let cassandraManager = new cassandra.Manager();
-cassandraManager.configure({
+let connection = new cassandra.Connection();
+connection.configure({
     keyspace: config.cassandra.keyspace,
     endpoint: config.cassandra.endpoint,
     user: config.cassandra.user,
     password: config.cassandra.password,
 });
 
-cassandraManager.connect().catch(err => {
+connection.connect().catch(err => {
     console.error(`${err}`);
     process.exit(1);
 });
@@ -41,7 +41,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // cassandra middleware
 app.use((req, res, next) => {
     req.cassandra = {
-        manager: cassandraManager
+        connection
     };
     next();
 });

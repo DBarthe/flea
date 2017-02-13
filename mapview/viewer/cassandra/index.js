@@ -1,8 +1,10 @@
 'use strict';
 
-const Manager = require('./manager.js');
+const Connection = require('./connection.js');
+const adapter = require('./adapter.js');
 
 module.exports = {
     driver: require('cassandra-driver'),
-    Manager: Manager,
+    Connection: Connection,
+    adapter: adapter,
 };
