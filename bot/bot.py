@@ -8,12 +8,19 @@ import datetime
 import socket
 import atexit
 from threading import Thread
+import logging
 
-hostTableSpec = [(10, 1, 27)]
+
+#hostTableSpec = [(10,1,27),(15,1,24),(13,1,24),(12,1,24)]
+hostTableSpec = [(11,23,24)]
 
 startBotCommand="cd ~/flea/bot && ./start-bot.sh"
 
 selfHost = socket.gethostname()
+logFile = './log/%s.pid' % selfHost
+
+logging.basicConfig(filename=logFile,level=logging.DEBUG,
+                    format='[%(asctime)s][' + selfHost +'] %(levelname)s: %(message)s')
 
 def datetimeStr():
     return datetime.datetime.strftime(datetime.datetime.now(), "%Y-%m-%d %H:%M:%S")
@@ -37,20 +44,20 @@ def eprint(*args, **kwargs):
 
 subProcessList = []
 def killSubProcesses():
-    log ("killing processes...")
+    logging.info("killing processes...")
     for p in subProcessList:
         p.kill()
 
 def executeOverSSH(host, cmd):
-    log("ssh %s %s" % (host, cmd))
+    logging.info("ssh %s %s" % (host, cmd))
     ssh = subprocess.Popen(["ssh", "-oStrictHostKeyChecking=no", host, cmd],
                            stdout=subprocess.PIPE,
                            stderr=subprocess.PIPE)
     subProcessList.append(ssh)
     for line in ssh.stdout.readlines():
-        print (line.decode("utf-8"))
+        logging.info(line.decode("utf-8").strip())
     for line in ssh.stderr.readlines():
-        print ("error:", line.decode("utf-8"))
+        logging.error(line.decode("utf-8").strip())
 
 def propagateRandomly():
     if len(hostTable) > 0:
@@ -62,7 +69,7 @@ def propagateAllOnce():
 
 quitCommandFile = './commands/quit'
 def hasToQuit():
-    log("check command file")
+    logging.info("check command file")
     try:
         f = open(quitCommandFile, 'r')
         content = f.read()
@@ -73,28 +80,48 @@ def hasToQuit():
 
 
 def sendReport():
-    log("sending report...")
+    logging.info("sending report...")
     res = subprocess.run(["./mapview-report.sh"], stdout=subprocess.PIPE)
-    log("report sent : [%d] %s" % (res.returncode, res.stdout.decode("utf-8")))
+    response = res.stdout.decode("utf-8")
+    print ("resonse = ", response)
+    if response.startswith("HTTP"):
+        try:
+            body = response.split("\n")[-1]
+            logging.info("report sent : [%d] %s", res.returncode, body)
+        except:
+            loggin.error("strange reponse body: [%d] %s", res.returncode, response)
+    else:
+        logging.info("report not sent : [%d] %s", res.returncode, response)
+
+
+INTERVAL_PROPAGATE = 60
+INTERVAL_REPORT = 30
+INTERVAL_CHECKQUIT = 10
 
 def main():
     atexit.register(killSubProcesses)
     i = 0
     while True:
-        log("I'm here (%d)" % i)
-        if i % 1 == 0:
+        if i % 60 == 0:
+            logging.info("I'm here (%d)" % i)
+
+        if (i+1) % INTERVAL_CHECKQUIT == 0:
             if hasToQuit():
-                log("command quit accepted")
+                logging.info("command quit accepted")
                 exit(0)
 
-        if i % 30 == 0:
+        if (i+0) % INTERVAL_PROPAGATE == 0:
             propagateRandomly()
 
-        if (i + 2) % 5 == 0:
+        if (i + 2) % INTERVAL_REPORT == 0:
             sendReport()
 
         time.sleep(1)
         i += 1
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        logging.error("unhandled exception: %s", str(e))
+        exit(1)

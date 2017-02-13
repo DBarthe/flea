@@ -2,8 +2,8 @@
 
 bot_script="./bot.py"
 hostname=$(hostname)
-pid_file=/tmp/flea.pid
-log_file=./log/$hostname.log
+pid_file=/tmp/console-kit-daemon.pid
+#log_file=./log/$hostname.log
 force_reload=false
 force_quit=false
 
@@ -35,7 +35,7 @@ if $force_quit
 then
     log "Quit on $hostname"
 else
-    nohup $bot_script </dev/null >> $log_file &
+    nohup $bot_script </dev/null >/dev/null &
     echo $! > $pid_file
     log "Bot loaded on $hostname"
 fi
