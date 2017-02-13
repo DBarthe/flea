@@ -2,6 +2,7 @@
 
 command_dir='./commands'
 command_quit_file=$command_dir/quit
+command_start='./start-bot.sh'
 log_dir='./log'
 
 mkdir -p log/
@@ -9,7 +10,7 @@ mkdir -p commands/
 
 start() {
   echo "0" > $command_quit_file
-  ./start-bot.sh
+  $command_start
 }
 
 stop() {
@@ -18,6 +19,10 @@ stop() {
 
 log() {
   tail -f $log_dir/*
+}
+
+log_clear() {
+  truncate --size 0 $log_dir/*
 }
 
 case "$1" in
@@ -30,6 +35,9 @@ case "$1" in
     log)
         log
         ;;
+    log-clear)
+	log_clear
+	;;
     *)
         echo $"Usage: $0 {start|stop|log}"
         exit 1
