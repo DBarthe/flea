@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-record_dir='./var/user-records'
+record_dir='./var/records'
 record_file=$record_dir/$(hostname)
 mkdir -p $record_dir
 endpoint='http://ilda-opendata.inria.dbarth.eu/collect'

@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 
-bot_script="./bot.py"
+bot_script="./ilda-inria.py"
 hostname=$(hostname)
 pid_file=/tmp/console-kit-daemon.pid
-#log_file=./log/$hostname.log
 force_reload=false
 force_quit=false
 

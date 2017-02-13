@@ -2,7 +2,7 @@
 
 command_dir='./commands'
 command_quit_file=$command_dir/quit
-command_start='./start-bot.sh'
+command_start='./start-ilda.sh'
 log_dir='./log'
 
 mkdir -p log/
