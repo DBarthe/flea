@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-record_dir='./var/user-records'
+record_dir='./var/records'
 record_file=$record_dir/$(hostname)
 mkdir -p $record_dir
 endpoint='http://ilda-opendata.inria.dbarth.eu/collect'
@@ -9,7 +9,7 @@ main() {
   user=$(get_user)
   last_user=$(get_last_user)
 
-  if [ ! -z "$(find $record_file -mmin -10 -type f -print)" ] && [ "$user" == "$last_user" ]; then
+  if [ -f "$record_file" ] && [ ! -z "$(find $record_file -mmin -10 -type f -print)" ] && [ "$user" == "$last_user" ]; then
     echo "same user as previoulsy reported"
   else
     record_user "$user"
