@@ -31,3 +31,6 @@ npm-debug.log
 
 # config file with credentials
 config.js
+
+# webstorm
+.idea

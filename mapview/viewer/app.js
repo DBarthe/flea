@@ -16,14 +16,15 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
 // cassandra setup
-let connection = new cassandra.Connection();
+let connection = new cassandra.Connection(),
+    adapter = new cassandra.adapter.ReadAdapter(connection);
+
 connection.configure({
     keyspace: config.cassandra.keyspace,
     endpoint: config.cassandra.endpoint,
     user: config.cassandra.user,
     password: config.cassandra.password,
 });
-
 connection.connect().catch(err => {
     console.error(`${err}`);
     process.exit(1);
@@ -40,9 +41,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // cassandra middleware
 app.use((req, res, next) => {
-    req.cassandra = {
-        connection
-    };
+    req.cassandra = { connection, adapter };
     next();
 });
 

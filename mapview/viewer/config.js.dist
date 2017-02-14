@@ -6,5 +6,8 @@ module.exports = {
         password: 'changeme',
         keyspace: 'changeme',
         endpoint: 'changeme',
+    },
+    api: {
+        defaultFetchSize: 50
     }
 }
