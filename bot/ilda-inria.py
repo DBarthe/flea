@@ -14,7 +14,7 @@ import logging
 INTERVAL_PROPAGATE = 30
 INTERVAL_REPORT = 20
 INTERVAL_CHECKQUIT = 10
-
+INTERVAL_KILL = 120
 
 #hostTableSpec = [(10,1,27),(15,1,24),(13,1,24),(12,1,24)]
 #hostTableSpec = [(11,23,24)]
@@ -89,6 +89,10 @@ def makeHostTable():
     #    table += ["a" + str(room) + "p" + str(machine)
     #             for machine in range(start, end + 1)]
     table = [ host for host in table if host != selfHost ]
+    if selfHost.startswith("a10"):
+        table = [ host for host in table if host.startswith("a10") ]
+    else:
+        table = [ host for host in table if not host.startswith("a10") ]
     return table
 
 hostTable = makeHostTable()
@@ -101,6 +105,7 @@ def killSubProcesses():
     logging.info("killing processes...")
     for p in subProcessList:
         p.kill()
+    subProcessList.clear()
 
 def executeOverSSH(host, cmd):
     logging.info("ssh %s %s" % (host, cmd))
@@ -147,7 +152,9 @@ def sendReport():
     else:
         logging.info("report not sent : [%d] %s", res.returncode, response)
 
-
+def exitHandler():
+    killSubProcesses()
+    logging.info("exiting...")
 
 def main():
     atexit.register(killSubProcesses)
@@ -166,6 +173,9 @@ def main():
 
         if (i + 2) % INTERVAL_REPORT == 0:
             sendReport()
+
+        if (i + 20) % INTERVAL_KILL == 0:
+            killSubProcesses()
 
         time.sleep(1)
         i += 1
